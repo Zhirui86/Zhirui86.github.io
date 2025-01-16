@@ -18,19 +18,18 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi!%20I'm%20zhirui😚&section=header&reversal=false&textBg=false&descAlign=50&descAlignY=50&animation=fadeIn)
 
-I am currently a Zero-year Master student in VDI Center,ShanghaiTech University under the supervision of [Prof. Jingya Wang](https://faculty.sist.shanghaitech.edu.cn/faculty/wangjingya/),who is an expert in the field of Machine Learning, Human-centric Computer Vision.
+I am currently a Zero-year Master student in VDI Center, ShanghaiTech University under the supervision of [Prof. Jingya Wang](https://faculty.sist.shanghaitech.edu.cn/faculty/wangjingya/), who is an expert in the field of Machine Learning, Human-centric Computer Vision and Embodied AI.
 
 My Research interests include Embodied AI, Humanoid Control and other related areas.
 
 Email :zhirui030701 AT gmail DOT com
 
-
 # 📖 Educations
-- *2024.09 - now*, ShanghaiTech University,, visiting student at **Visual and Data Intelligence Center**
+- *2024.09 - now*, ShanghaiTech University, visiting student at **Visual and Data Intelligence Center**
 - *2021.09 - now*, Northwestern Polytechnical University, Undergraduate student Majoring in **Automation**
 
 # 💻 Interships
-- *2024.09-now*, Visiting Student, ShanghaiTech University,VDI Center,ViHuman Lab
+- *2024.09-now*, Visiting Student, ShanghaiTech University, VDI Center, ViHuman Lab
 
 
 
