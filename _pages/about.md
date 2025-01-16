@@ -30,7 +30,7 @@ Email :zhirui030701 AT gmail DOT com
 - *2021.09 - now*, Northwestern Polytechnical University, Undergraduate student Majoring in **Automation**
 
 # 💻 Interships
-- *2024.10-now*, Visiting Student, ShanghaiTech University,VDI Center,ViHuman Lab
+- *2024.09-now*, Visiting Student, ShanghaiTech University,VDI Center,ViHuman Lab
 
 
 
