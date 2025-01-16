@@ -20,6 +20,7 @@ redirect_from:
 I am Current a Zero-year Master student in VDI Center,ShanghaiTech University under the supervision of [Prof. Jingya Wang](https://faculty.sist.shanghaitech.edu.cn/faculty/wangjingya/),who is an expert in the field of Machine Learning,Computer Vision.
 
 My Research interest include Embodied AI.
+
 Email :zhirui030701 AT gmail DOT com
 
 
