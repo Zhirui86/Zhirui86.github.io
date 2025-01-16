@@ -24,11 +24,11 @@ My Research interests include Embodied AI, Humanoid Control and other related ar
 
 Email :zhirui030701 AT gmail DOT com
 
-# 📖 Educations
+# 📖 Education
 - *2024.09 - now*, ShanghaiTech University, visiting student at **Visual and Data Intelligence Center**
 - *2021.09 - now*, Northwestern Polytechnical University, Undergraduate student Majoring in **Automation**
 
-# 💻 Interships
+# 💻 Internship
 - *2024.09-now*, Visiting Student, ShanghaiTech University, VDI Center, ViHuman Lab
 
 
