@@ -21,7 +21,7 @@ I am Current a First-year Master student in ShanghaiTech University under the su
 
 <!-- <a href='https://scholar.google.com.hk/citations?user=dV36HmYAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/zhenhao-zhang/zhenhao-zhang.github.io@google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
-My Research interest include [**Large Language Model**](https://zhangzhh.cn/LLM-learning/),Generative AI and Embodied AI. Now I focus on the topic of Spatial Intelligence of [**Manipulation**](https://zhangzhh.cn/Manipulation-Learning/), [**Preception**](https://github.com/hq-King/Awesome-Affordance-Learning) and Reasoning. Click [**Here**](https://zhenhao-zhang.github.io/CV/zhangzhh_CV_homepage.pdf) to visit my CV. I am looking for Co-authors and Friends. Feel free to contact me if you are interested in these fantasic topics!
+My Research interest include [**Large Language Model**](https://zhangzhh.cn/LLM-Learning/),Generative AI and Embodied AI. Now I focus on the topic of Spatial Intelligence of [**Manipulation**](https://zhangzhh.cn/Manipulation-Learning/), [**Preception**](https://github.com/hq-King/Awesome-Affordance-Learning) and Reasoning. Click [**Here**](https://zhenhao-zhang.github.io/CV/zhangzhh_CV_homepage.pdf) to visit my CV. I am looking for Co-authors and Friends. Feel free to contact me if you are interested in these fantasic topics!
 
 Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
