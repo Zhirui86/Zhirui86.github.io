@@ -157,7 +157,9 @@ Major: B.E. in **Computer Science and Technology**
 
 *2025.6 - 2025.9*
 
-AI Agent System Development Intern: LLMs for FinTech about Quantitative trading of options
+AI Agent System Development Intern
+
+Project: LLMs for FinTech about Quantitative trading of options
 
 
 </div>
@@ -186,7 +188,9 @@ Paper:NeurIPS2024[[paper]](https://arxiv.org/abs/2405.16173)
 
 *2023.10 - 2023.12*
 
-Predictive Algorithm Intern(Auto Driving):Hybrid Auto-driving based on rules and networks
+Predictive Algorithm Intern(Auto Driving)
+
+Project: Hybrid Auto-driving based on rules and networks
 
 
 
