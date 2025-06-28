@@ -145,10 +145,6 @@ School of Computer Science and Technology
 
 Major: B.E. in **Computer Science and Technology**
 
-Intern in Department of Data Science and Statistics
-
-Member of Intelligent Vehicle Lab, MCM Association, ACM-ICPC Club
-
 </div>
 </div>
 
@@ -161,7 +157,7 @@ Member of Intelligent Vehicle Lab, MCM Association, ACM-ICPC Club
 
 *2025.6 - 2025.9*
 
-AI Agent System Development Intern: LLMs, FinTech
+AI Agent System Development Intern: LLMs for FinTech about Quantitative trading of options
 
 
 </div>
@@ -179,6 +175,36 @@ VDI Center,YesAI Lab
 Visiting Student: Reinforcement Learning, Embodied AI
 
 Paper:NeurIPS2024[[paper]](https://arxiv.org/abs/2405.16173)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/haomo.png' alt="sym" width="95%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span style="font-size:18px;">**HAOMO AI**</span>
+
+*2023.10 - 2023.12*
+
+Predictive Algorithm Intern(Auto Driving):Hybrid Auto-driving based on rules and networks
+
+
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/upc.png' alt="sym" width="95%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span style="font-size:18px;">**China University of Petroleum**</span>
+
+*2021.7 - 2023.9*
+
+Department of Data Science and Statistics
+
+Research Intern: Machine Learning, Biomedical Information
+
+Paper:ARXIV2023[[paper]](https://arxiv.org/abs/2410.16722)
 
 </div>
 </div>
