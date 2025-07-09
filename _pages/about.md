@@ -21,7 +21,7 @@ I am Current a First-year Master student in ShanghaiTech University under the su
 
 <!-- <a href='https://scholar.google.com.hk/citations?user=dV36HmYAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/zhenhao-zhang/zhenhao-zhang.github.io@google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
-My Research interest include [**Large Language Model**](https://zhangzhh.cn/LLM-Learning/),Generative AI and Embodied AI. Now I focus on the topic of Spatial Intelligence of [**Manipulation**](https://zhangzhh.cn/Manipulation-Learning/), [**Preception**](https://github.com/hq-King/Awesome-Affordance-Learning) and Reasoning. Click [**Here**](https://zhenhao-zhang.github.io/CV/zhangzhh_CV_homepage.pdf) to visit my CV. I am looking for Co-authors and Friends. Feel free to contact me if you are interested in these fantasic topics!
+My Research interest include Large Language Model, Spatial Intelligence and Embodied AI. Now I focus on the topic of LLM Application, 3D Generation and Understanding. Click [**Here**](https://zhenhao-zhang.github.io/CV/zhangzhh_CV_homepage.pdf) to visit my CV. I am looking for Collaborators and Friends. Feel free to contact me if you are interested in these fantasic topics!
 
 Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
@@ -35,7 +35,7 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 
 # 📝 Publications 
-*:Equal Contribution †:Corresponding Author
+*:Equal Contribution †:Corresponding Author #Student First-author
 
 
 
@@ -60,11 +60,11 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 **DAG: Unleash the potential of Diffusion Model for Open-Vocabulary 3D Affordance Grounding**
 
-Hanqing Wang\*†, **Zhenhao Zhang\***, Kaiyang Ji\*, Mingyu Liu, Wenti Yin, Yuchao Chen, Zhirui Liu, Hangxing Zhang
+Hanqing Wang\*†, **Zhenhao Zhang\*#**, Kaiyang Ji\*, Mingyu Liu, Wenti Yin, Yuchao Chen, Zhirui Liu, Hangxing Zhang
 
 [[**Project Page**]](http://zhenhao-zhang.github.io/DAG_page/)
 
-Student First-author
+
 </div>
 </div>
 
@@ -106,15 +106,6 @@ I finished this work in 2023 when I was an undergraduate student intern in the D
 - *2022.11*,Bronze Medal(SOLO), Kaggle Featured Code Competition:Feedback Prize - English Language Learning
 - *2022.6*,Finalist, America Mathematics Contest in Modeling,Top 1%
 - *2021.4*,Shandong First Prize in Group A, LanQiao Cup
-
-
-<!-- # 🎖 Honors and Awards
-- *2023.5*,National Second Prize,China Robotics and Artificial Intelligence Competition[2023CRAIC TeamID:CRAIC2023-NF-BMJXSD](https://www.caairobot.com/craicresult/view/)
-- *2023.4*,Shandong First Prize in Group A,LanQiao Cup[2023LQB](https://dasai.lanqiao.cn/notices/860/)
-- *2022.11*,Bronze Medal(SOLO),Kaggle Featured Code Competition:Feedback Prize - English Language Learning[2022Kaggle](https://www.kaggle.com/upczhenhaozhang)
-- *2022.6*,Finalist,America Mathematics Contest in Modeling,Top 1%[2022MCM](https://www.comap-math.org/mcm/2022Certs/2204752.pdf)
-- *2021.4*,Shandong First Prize in Group A,LanQiao Cup[2021LQB](https://dasai.lanqiao.cn/notices/860/) -->
-
 
 
 # 📖 Educations
@@ -224,5 +215,11 @@ Paper:ARXIV2023[[paper]](https://arxiv.org/abs/2410.16722)
 
 <!-- I am working/used to work closely with many friends in **U**niversity of **C**alifornia **Berkeley**, **U**niversity of **T**exas at **Austin**, **T**exas **A&M** **U**niversity, **S**imon **F**raser **U**niversity, **H**ong**K**ong **U**niversity of **S**cience and **T**echnology, **City** **U**niversity of HongKong, ShanghaiAILab, Tiktok, **T**sing**H**ua **U**niversity, **S**hanghai **J**iao **T**ong **U**niversity, **Z**he**J**iang **U**niversity, **U**niversity of **S**cience and **T**echnology of **C**hina, **N**an**J**ing **U**niversity,**ICT** CAS ...Both of them are excellent! -->
 
-- Undergrade:[Jiaxin Liu](https://staskaer.github.io/)
-- Master:[Kaiyang Ji](https://jiky.me/),[Yahao Fan](https://fanyahao1.github.io/),[Zhirui Liu](https://zhirui86.github.io/),[Hanqing Wang](https://hq-king.github.io/),[Tianxiang Gui](https://shiki-ta.github.io/),[Ke Hu](https://openreview.net/profile?id=~Ke_Hu9),[Yuke Li](http://liyuke.cn/),[Mokai Pan](https://serendipityerr.github.io/Homepage/),[Xiangyu Zeng](https://lanxingxuan.github.io/)
+- Large Language Models:[Hanqing Wang](https://hq-king.github.io/),[Xiangyu Zeng](https://lanxingxuan.github.io/)
+- Computer Vision:[Jiaxin Liu](https://staskaer.github.io/),[Kaiyang Ji](https://CurMark.github.io/),[Zhirui Liu](https://zhirui86.github.io/),[Yuke Li](http://liyuke.cn/)
+- Emboided AI:[Yahao Fan](https://fanyahao1.github.io/),[Tianxiang Gui](https://shiki-ta.github.io/)
+- Reinforcement Learning:[Shutong Ding](http://wadx2019.github.io/),[Ke Hu](https://openreview.net/profile?id=~Ke_Hu9)
+- Generative Models:[Mokai Pan](https://serendipityerr.github.io/Homepage/)
+
+
+
