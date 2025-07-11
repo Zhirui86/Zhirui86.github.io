@@ -45,7 +45,7 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 **OpenHOI: Open-World Hand-Object Interaction Synthesis with Multimodal Large Language Model**
 
-**Zhenhao Zhang**, Ye Shi*, Lingxiao Yang, Suting Ni, Qi Ye, Jingya Wang*
+**Zhenhao Zhang**, Ye Shi\*, Lingxiao Yang, Suting Ni, Qi Ye, Jingya Wang\*
 
 [![arXiv](https://img.shields.io/badge/arXiv-2505.18947-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2505.18947)[[**Project Page**]](http://openhoi.github.io)
 </div>
@@ -79,7 +79,7 @@ Student First Author
 
 **Diffusion-based Reinforcement Learning via Q-weighted Variational Policy Optimization,NeurIPS 2024(CCF A)**
 
-Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya Wang, Ye Shi*
+Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya Wang, Ye Shi\*
 
 [![arXiv](https://img.shields.io/badge/arXiv-2405.16173-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2405.16173)[[**Poster**]](https://neurips.cc/virtual/2024/poster/94963)[[**Project Page**]](http://wadx2019.github.io/qvpo-webpage/)[[**Code**]](https://github.com/wadx2019/qvpo/)
 </div>
@@ -91,7 +91,7 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 
 **Robust Variable Selection for High-dimensional Regression with Missing Data and Measurement Errors**
 
-**Zhenhao Zhang**, Yunquan Song*
+**Zhenhao Zhang**, Yunquan Song\*
 
 [![arXiv](https://img.shields.io/badge/arXiv-2410.16722-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2410.16722)
 
