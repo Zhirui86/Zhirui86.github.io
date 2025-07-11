@@ -35,7 +35,7 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 
 # 📝 Publications 
-*:Equal Contribution †:Corresponding Author #Student First-author
+†:Equal Contribution *:Corresponding Author #Student First Author
 
 
 
@@ -60,11 +60,11 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 **DAG: Unleash the potential of Diffusion Model for Open-Vocabulary 3D Affordance Grounding**
 
-Hanqing Wang\*†, **Zhenhao Zhang\*#**, Kaiyang Ji\*, Mingyu Liu, Wenti Yin, Yuchao Chen, Zhirui Liu, Hangxing Zhang
+Hanqing Wang\†*, **Zhenhao Zhang\†#**, Kaiyang Ji\†, Mingyu Liu, Wenti Yin, Yuchao Chen, Zhirui Liu, Hangxing Zhang
 
 [[**Project Page**]](http://zhenhao-zhang.github.io/DAG_page/)
 
-
+Student First Author
 </div>
 </div>
 
@@ -212,9 +212,6 @@ Paper:ARXIV2023[[paper]](https://arxiv.org/abs/2410.16722)
 *  Association Member: CAA Member, CCF Student Member
 
 # 🤝 Friends
-
-<!-- I am working/used to work closely with many friends in **U**niversity of **C**alifornia **Berkeley**, **U**niversity of **T**exas at **Austin**, **T**exas **A&M** **U**niversity, **S**imon **F**raser **U**niversity, **H**ong**K**ong **U**niversity of **S**cience and **T**echnology, **City** **U**niversity of HongKong, ShanghaiAILab, Tiktok, **T**sing**H**ua **U**niversity, **S**hanghai **J**iao **T**ong **U**niversity, **Z**he**J**iang **U**niversity, **U**niversity of **S**cience and **T**echnology of **C**hina, **N**an**J**ing **U**niversity,**ICT** CAS ...Both of them are excellent! -->
-
 - Large Language Models:[Hanqing Wang](https://hq-king.github.io/),[Xiangyu Zeng](https://lanxingxuan.github.io/)
 - Computer Vision:[Jiaxin Liu](https://staskaer.github.io/),[Kaiyang Ji](https://CurMark.github.io/),[Zhirui Liu](https://zhirui86.github.io/),[Yuke Li](http://liyuke.cn/)
 - Emboided AI:[Yahao Fan](https://fanyahao1.github.io/),[Tianxiang Gui](https://shiki-ta.github.io/)
