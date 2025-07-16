@@ -210,10 +210,10 @@ Paper:ARXIV2023[[paper]](https://arxiv.org/abs/2410.16722)
 # 💼 Services
 *  PC Member: NeurIPS 2024, ICLR 2025, AISTATS 2025, ICML 2025, NeurIPS 2025, IJCNN 2025
 *  Association Member: CAA Member, CCF Student Member
-
+s
 # 🤝 Friends
 - Large Language Models:[Hanqing Wang](https://hq-king.github.io/),[Xiangyu Zeng](https://lanxingxuan.github.io/)
-- Computer Vision:[Jiaxin Liu](https://staskaer.github.io/),[Kaiyang Ji](https://CurMark.github.io/),[Zhirui Liu](https://zhirui86.github.io/),[Yuke Li](http://liyuke.cn/)
+- Computer Vision:[Jiaxin Liu](https://staskaer.github.io/),[Kaiyang Ji](https://CurMack.github.io/),[Zhirui Liu](https://zhirui86.github.io/),[Yuke Li](http://liyuke.cn/)
 - Emboided AI:[Yahao Fan](https://fanyahao1.github.io/),[Tianxiang Gui](https://shiki-ta.github.io/)
 - Reinforcement Learning:[Shutong Ding](http://wadx2019.github.io/),[Ke Hu](https://openreview.net/profile?id=~Ke_Hu9)
 - Generative Models:[Mokai Pan](https://serendipityerr.github.io/Homepage/)
