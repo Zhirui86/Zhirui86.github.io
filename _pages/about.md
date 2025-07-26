@@ -35,7 +35,7 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 
 # 📝 Selected Publications 
-†:Equal Contribution *:Corresponding Author #Student First Author
+†:Equal Contribution *:Corresponding Author #Student First Author ‡Project Leader
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Coming Soon</div><img src='papers/Spatial-ORMLLM/Spatial-ORMLLM.png' alt="sym" width="100%"></div></div>
@@ -43,7 +43,7 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 **Spatial-ORMLLM: Improve Spatial Relation Understanding in the Operating Room with Multimodal Large Language Model**
 
- Peiqi He†, **Zhenhao Zhang†**, Yixiang Zhang, Xiongjun Zhao\*, Shaoliang Pen\*
+ Peiqi He†, **Zhenhao Zhang†‡**, Yixiang Zhang, Xiongjun Zhao\*, Shaoliang Pen\*
 
 
 </div>
