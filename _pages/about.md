@@ -34,7 +34,7 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 - *2024.09*:One paper accepted by **NeurIPS 2024(CCF A)**!
 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 †:Equal Contribution *:Corresponding Author #Student First Author
 
 
@@ -121,7 +121,7 @@ I finished this work in 2023 when I was an undergraduate student intern in the D
 </div> -->
 
 
-# 🎖 Honors and Awards
+# 🎖 Selected Honors and Awards
 - *2023.5*,National Second Prize, China Robotics and Artificial Intelligence Competition
 - *2023.4*,Shandong First Prize in Group A, LanQiao Cup
 - *2022.11*,Bronze Medal(SOLO), Kaggle Featured Code Competition:Feedback Prize - English Language Learning
@@ -160,7 +160,7 @@ Major: B.E. in **Computer Science and Technology**
 </div>
 </div>
 
-# 💻 Internships
+# 💻 Selected Internships
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/signalplus.png' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -227,7 +227,12 @@ Paper:ARXIV2023[[paper]](https://arxiv.org/abs/2410.16722)
 </div>
 
 
+# 📚 Other Experiments
 
+- Predictive Algorithm Intern in [HAOMO AI][http://haomo.ai]. Project: Hybrid Auto-driving based on rules and networks
+- Research Intern in [MIG@UPC][http://wenjuangong.com]. Project: Segmentation in the Dark.
+- Research Intern in [UPC-Artrobot][http://www.artrobot.com/] Cooperation Item. Project: Intelligent Vehicle
+- Member of ACM-ICPC Club@UPC and MCM Association@UPC
 # 💼 Services
 *  PC Member: NeurIPS 2024, ICLR 2025, AISTATS 2025, ICML 2025, NeurIPS 2025, IJCNN 2025
 *  Association Member: CAA Member, CCF Student Member

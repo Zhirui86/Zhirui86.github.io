@@ -9,17 +9,17 @@ main:
 
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#-selected-publications"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#-selected-honors-and-awards"
 
   - title: "Educations"
     url: "/#-educations"
 
 
   - title: "Internships"
-    url: "/#-internships"
+    url: "/#-selected-internships"
 
   - title: "Services"
     url: "/#-services"
