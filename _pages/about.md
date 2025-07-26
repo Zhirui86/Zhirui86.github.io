@@ -38,6 +38,27 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 †:Equal Contribution *:Corresponding Author #Student First Author
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Coming Soon</div><img src='papers/Spatial-ORMLLM/Spatial-ORMLLM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Spatial-ORMLLM: Improve Spatial Relation Understanding in the Operating Room with Multimodal Large Language Model**
+
+ Peiqi He†, **Zhenhao Zhang†**, Yixiang Zhang, Xiongjun Zhao\*, Shaoliang Pen\*
+
+[![arXiv](https://img.shields.io/badge/arXiv-2505.18947-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2505.18947)[[**Project Page**]](http://openhoi.github.io)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Coming Soon</div><img src='papers/SDEval/SDEval.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**SDEval: Safety Dynamic Evaluation for Multimodal Large Language Models**
+
+Hanqing Wang, Yuan Tian, Mingyu Liu, **Zhenhao Zhang**, Xiangyang Zhu\*
+
+[![arXiv](https://img.shields.io/badge/arXiv-2505.18947-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2505.18947)[[**Project Page**]](http://openhoi.github.io)
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV</div><img src='papers/OpenHOI/OpenHOI.png' alt="sym" width="100%"></div></div>
