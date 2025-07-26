@@ -229,9 +229,9 @@ Paper:ARXIV2023[[paper]](https://arxiv.org/abs/2410.16722)
 
 # 📚 Other Experiments
 
-- Predictive Algorithm Intern in [HAOMO AI][http://haomo.ai]. Project: Hybrid Auto-driving based on rules and networks
-- Research Intern in [MIG@UPC][http://wenjuangong.com]. Project: Segmentation in the Dark.
-- Research Intern in [UPC-Artrobot][http://www.artrobot.com/] Cooperation Item. Project: Intelligent Vehicle
+- Predictive Algorithm Intern in [HAOMO AI](http://haomo.ai). Project: Hybrid Auto-driving based on rules and networks
+- Research Intern in [MIG@UPC](http://wenjuangong.com). Project: Segmentation in the Dark.
+- Research Intern in [UPC-Artrobot](http://www.artrobot.com/) Cooperation Item. Project: Intelligent Vehicle
 - Member of ACM-ICPC Club@UPC and MCM Association@UPC
 # 💼 Services
 *  PC Member: NeurIPS 2024, ICLR 2025, AISTATS 2025, ICML 2025, NeurIPS 2025, IJCNN 2025
