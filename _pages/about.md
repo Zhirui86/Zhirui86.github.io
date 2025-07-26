@@ -193,7 +193,7 @@ Paper:NeurIPS2024[[paper]](https://arxiv.org/abs/2405.16173)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/haomo.png' alt="sym" width="95%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><img src='images/haomo.png' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span style="font-size:18px;">**HAOMO AI**</span>
@@ -208,7 +208,7 @@ Project: Hybrid Auto-driving based on rules and networks
 
 
 </div>
-</div>
+</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/upc.png' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
