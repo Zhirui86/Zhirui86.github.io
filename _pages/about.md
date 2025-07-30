@@ -21,9 +21,9 @@ I am Current a First-year Master student in ShanghaiTech University under the su
 <!-- 
 <a href='https://scholar.google.com.hk/citations?user=dV36HmYAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/zhenhao-zhang/zhenhao-zhang.github.io@google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
-<a href='https://scholar.google.com/citations?user=dV36HmYAAAAJ''><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/zhenhao-zhang/zhenhao-zhang.github.io@google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+<!-- <a href='https://scholar.google.com/citations?user=dV36HmYAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/zhenhao-zhang/zhenhao-zhang.github.io@google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
-My Research interest include Large Language Model, Spatial Intelligence and Embodied AI. Now I focus on the topic of LLM Application, 3D Generation and Understanding. Click [**Here**](https://zhenhao-zhang.github.io/CV/zhangzhh_CV_homepage.pdf) to visit my CV. I am looking for Collaborators and Friends. Feel free to contact me if you are interested in these fantasic topics!
+My Research interest include Large Language Model, Spatial Intelligence and Embodied AI. Now I focus on the topic of LLM Application, 3D Generation and Understanding. Click [Here](https://zhenhao-zhang.github.io/CV/zhangzhh_CV_homepage.pdf) to visit my CV. I am looking for Collaborators and Friends. Feel free to contact me if you are interested in these fantasic topics!
 
 Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
@@ -33,7 +33,10 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 
 # 🔥 News
-- *2024.09*:One paper accepted by **NeurIPS 2024(CCF A)**!
+- *2025.07*:[**DAG**](http://zhenhao-zhang.github.io/DAG_page/)accepted by **WAIC 2025**!
+- *2025.07*:I join [SignalPlus](http://signalplus.com) as an AI Agent System Development Intern for Quantitative Trading
+- *2024.09*:[**QVPO**](http://wadx2019.github.io/qvpo-webpage/) accepted by **NeurIPS 2024(CCF A)**!
+- *2024.09*:I join ShanghaiTech University,[VDI Center](https://vdi.sist.shanghaitech.edu.cn/) as a CS Master Student!
 
 
 # 📝 Selected Publications 
@@ -45,7 +48,7 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 **Spatial-ORMLLM: Improve Spatial Relation Understanding in the Operating Room with Multimodal Large Language Model**
 
- Peiqi He†, **Zhenhao Zhang†‡**, Yixiang Zhang, Xiongjun Zhao\*, Shaoliang Pen\*
+ Peiqi He†, **Zhenhao Zhang†‡**, Yixiang Zhang, Xiongjun Zhao\*, Shaoliang Peng\*
 
 
 </div>
@@ -107,19 +110,6 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 </div>
 </div>
 
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV</div><img src='papers/RVSHMM/RVSHMM.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Robust Variable Selection for High-dimensional Regression with Missing Data and Measurement Errors**
-
-**Zhenhao Zhang**, Yunquan Song\*
-
-[![arXiv](https://img.shields.io/badge/arXiv-2410.16722-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2410.16722)
-
-I finished this work in 2023 when I was an undergraduate student intern in the Department of Data Science and Statistics.
-</div>
-</div> -->
 
 
 # 🎖 Selected Honors and Awards
@@ -194,22 +184,6 @@ Paper:NeurIPS2024[[paper]](https://arxiv.org/abs/2405.16173)
 </div>
 </div>
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><img src='images/haomo.png' alt="sym" width="95%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<span style="font-size:18px;">**HAOMO AI**</span>
-
-*2023.10 - 2023.12*
-
-Predictive Algorithm Intern(Auto Driving)
-
-Project: Hybrid Auto-driving based on rules and networks
-
-
-
-
-</div>
-</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/upc.png' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -232,7 +206,7 @@ Paper:ARXIV2023[[paper]](https://arxiv.org/abs/2410.16722)
 
 - Predictive Algorithm Intern in [HAOMO AI](http://haomo.ai). Project: Hybrid Auto-driving based on rules and networks
 - Research Intern in [MIG@UPC](http://wenjuangong.com). Project: Segmentation in the Dark.
-- Research Intern in [UPC-Artrobot](http://www.artrobot.com/) Cooperation Item. Project: Intelligent Vehicle
+- Machine Vision Intern in [UPC-Artrobot](http://www.artrobot.com/) Cooperation Item. Project: Intelligent Vehicle
 - Member of ACM-ICPC Club@UPC and MCM Association@UPC
 
 # 💼 Services
