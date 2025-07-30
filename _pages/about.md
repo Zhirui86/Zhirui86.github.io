@@ -21,7 +21,9 @@ I am Current a First-year Master student in ShanghaiTech University under the su
 <!-- 
 <a href='https://scholar.google.com.hk/citations?user=dV36HmYAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/zhenhao-zhang/zhenhao-zhang.github.io@google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
-<!-- <a href='https://scholar.google.com/citations?user=dV36HmYAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/zhenhao-zhang/zhenhao-zhang.github.io@google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
+<!-- <a href='https://scholar.google.com/citations?user=dV36HmYAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/Zhenhao-Zhang/Zhenhao-Zhang.github.io@google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
+
+<!-- <a href="https://scholar.google.com/citations?user=dV36HmYAAAAJ"><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&amp;url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fyisuanwang%2Fyisuanwang.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&amp;labelColor=f6f6f6&amp;color=9cf&amp;style=flat&amp;label=citations"></a> -->
 
 My Research interest include Large Language Model, Spatial Intelligence and Embodied AI. Now I focus on the topic of LLM Application, 3D Generation and Understanding. Click [Here](https://zhenhao-zhang.github.io/CV/zhangzhh_CV_homepage.pdf) to visit my CV. I am looking for Collaborators and Friends. Feel free to contact me if you are interested in these fantasic topics!
 
@@ -204,6 +206,7 @@ Paper:ARXIV2023[[paper]](https://arxiv.org/abs/2410.16722)
 
 # 📚 Other Experiments
 
+- Main Contributor in [Awesome Affordance Learning](https://github.com/hq-King/Awesome-Affordance-Learning) merged in [Embodied-AI-Guide](https://img.shields.io/github/stars/TianxingChen/Embodied-AI-Guide)
 - Predictive Algorithm Intern in [HAOMO AI](http://haomo.ai). Project: Hybrid Auto-driving based on rules and networks
 - Research Intern in [MIG@UPC](http://wenjuangong.com). Project: Segmentation in the Dark.
 - Machine Vision Intern in [UPC-Artrobot](http://www.artrobot.com/) Cooperation Item. Project: Intelligent Vehicle
