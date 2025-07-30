@@ -35,7 +35,7 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 
 # 🔥 News
-- *2025.07*:[**DAG**](http://zhenhao-zhang.github.io/DAG_page/)accepted by **WAIC 2025**!
+- *2025.07*:[**DAG**](http://zhenhao-zhang.github.io/DAG_page/) accepted by **WAIC 2025**!
 - *2025.07*:I join [SignalPlus](http://signalplus.com) as an AI Agent System Development Intern for Quantitative Trading
 - *2024.09*:[**QVPO**](http://wadx2019.github.io/qvpo-webpage/) accepted by **NeurIPS 2024(CCF A)**!
 - *2024.09*:I join ShanghaiTech University,[VDI Center](https://vdi.sist.shanghaitech.edu.cn/) as a CS Master Student!
