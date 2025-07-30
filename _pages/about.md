@@ -18,8 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am Current a First-year Master student in ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io) and [Prof. Jingya Wang](https://faculty.sist.shanghaitech.edu.cn/faculty/wangjingya/),who are experts in the field of Computer Vision.I get B.E. Degree in China University of Petroleum under the supervision of [Prof. Yunquan Song](https://sci.upc.edu.cn/2019/0513/c14558a206193/page.htm), who is an expert in the field of High-Dimensional Statistic.
+<!-- 
+<a href='https://scholar.google.com.hk/citations?user=dV36HmYAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/zhenhao-zhang/zhenhao-zhang.github.io@google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
-<!-- <a href='https://scholar.google.com.hk/citations?user=dV36HmYAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/zhenhao-zhang/zhenhao-zhang.github.io@google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
+<a href='https://scholar.google.com/citations?user=dV36HmYAAAAJ''><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/zhenhao-zhang/zhenhao-zhang.github.io@google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 My Research interest include Large Language Model, Spatial Intelligence and Embodied AI. Now I focus on the topic of LLM Application, 3D Generation and Understanding. Click [**Here**](https://zhenhao-zhang.github.io/CV/zhangzhh_CV_homepage.pdf) to visit my CV. I am looking for Collaborators and Friends. Feel free to contact me if you are interested in these fantasic topics!
 
@@ -81,11 +83,10 @@ Hanqing Wang, Yuan Tian, Mingyu Liu, **Zhenhao Zhang**, Xiangyang Zhu\*
 
 **DAG: Unleash the potential of Diffusion Model for Open-Vocabulary 3D Affordance Grounding**
 
-Hanqing Wang†*, **Zhenhao Zhang†#**, Kaiyang Ji†, Mingyu Liu, Wenti Yin, Yuchao Chen, Zhirui Liu, Hangxing Zhang
+Hanqing Wang†*, **Zhenhao Zhang†#**, Kaiyang Ji†, Mingyu Liu, Wenti Yin, Yuchao Chen, Zhirui Liu, Hangxing Zhang, Xiangyu Zeng
 
 [[**Project Page**]](http://zhenhao-zhang.github.io/DAG_page/)
 
-Student First Author
 </div>
 </div>
 
