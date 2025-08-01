@@ -206,7 +206,7 @@ Paper:ARXIV2023[[paper]](https://arxiv.org/abs/2410.16722)
 
 # 📚 Other Experiments
 
-- Main Contributor in [Awesome Affordance Learning](https://github.com/hq-King/Awesome-Affordance-Learning) merged in [Embodied-AI-Guide](https://img.shields.io/github/stars/TianxingChen/Embodied-AI-Guide)
+- Main Contributor in [Awesome Affordance Learning](https://github.com/hq-King/Awesome-Affordance-Learning)<img src="https://img.shields.io/github/stars/hq-King/Awesome-Affordance-Learning" alt="GitHub stars"> merged in [Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) <img src="https://img.shields.io/github/stars/TianxingChen/Embodied-AI-Guide" alt="GitHub stars">
 - Predictive Algorithm Intern in [HAOMO AI](http://haomo.ai). Project: Hybrid Auto-driving based on rules and networks
 - Research Intern in [MIG@UPC](http://wenjuangong.com). Project: Segmentation in the Dark.
 - Machine Vision Intern in [UPC-Artrobot](http://www.artrobot.com/) Cooperation Item. Project: Intelligent Vehicle
