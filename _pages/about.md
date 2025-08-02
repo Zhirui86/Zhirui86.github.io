@@ -46,6 +46,16 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 # 📝 Selected Publications 
 †:Equal Contribution *:Corresponding Author #Student First Author ‡Project Leader
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Coming Soon</div><img src='papers/HOID-R1/HOID-R1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**HOID-R1: Reinforcement Learning for Open-World Human-Object Interaction Detection Reasoning with Multimodal Large Language Model**
+
+**Zhenhao Zhang†**, Hanqing Wang†‡, Xiangyu Zeng†, Ziyu Cheng, Jiaxin Liu, Haoyu Yan, Zhirui Liu, Kaiyang Ji, Tianxiang Gui, Ke Hu, Kangyi Chen, Yahao Fan, Mokai Pan
+
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Coming Soon</div><img src='papers/Spatial-ORMLLM/Spatial-ORMLLM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
