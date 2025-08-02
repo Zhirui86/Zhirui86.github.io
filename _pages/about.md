@@ -46,6 +46,7 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 # 📝 Selected Publications 
 †:Equal Contribution *:Corresponding Author #Student First Author ‡Project Leader
 
+<div style="background-color: #ffffdc; ">
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Coming Soon</div><img src='papers/HOID-R1/HOID-R1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -56,7 +57,9 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 </div>
 </div>
+</div>
 
+<div style="background-color: #ffffdc; ">
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Coming Soon</div><img src='papers/Spatial-ORMLLM/Spatial-ORMLLM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -67,6 +70,8 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 </div>
 </div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Coming Soon</div><img src='papers/SDEval/SDEval.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -79,7 +84,7 @@ Hanqing Wang, Yuan Tian, Mingyu Liu, **Zhenhao Zhang**, Xiangyang Zhu\*
 </div>
 </div>
 
-
+<div style="background-color: #ffffdc; ">
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV</div><img src='papers/OpenHOI/OpenHOI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -90,7 +95,7 @@ Hanqing Wang, Yuan Tian, Mingyu Liu, **Zhenhao Zhang**, Xiangyang Zhu\*
 [![arXiv](https://img.shields.io/badge/arXiv-2505.18947-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2505.18947)[[**Project Page**]](http://openhoi.github.io)
 </div>
 </div>
-
+</div>
 
 
 
