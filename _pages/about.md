@@ -85,6 +85,20 @@ Hanqing Wang, Yuan Tian, Mingyu Liu, **Zhenhao Zhang**, Xiangyang Zhu\*
 </div>
 
 <div style="background-color: #ffffdc; ">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='papers/DAG/DAG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**DAG: Unleash the potential of Diffusion Model for Open-Vocabulary 3D Affordance Grounding**
+
+Hanqing Wang†*, **Zhenhao Zhang†#**, Kaiyang Ji†, Mingyu Liu, Wenti Yin, Yuchao Chen, Zhirui Liu, Xiangyu Zeng, Tianxiang Gui, Hangxing Zhang
+
+[[**Project Page**]](http://zhenhao-zhang.github.io/DAG_page/)
+
+</div>
+</div>
+</div>
+
+<div style="background-color: #ffffdc; ">
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV</div><img src='papers/OpenHOI/OpenHOI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -98,20 +112,6 @@ Hanqing Wang, Yuan Tian, Mingyu Liu, **Zhenhao Zhang**, Xiangyang Zhu\*
 </div>
 
 
-
-<div style="background-color: #ffffdc; ">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='papers/DAG/DAG.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**DAG: Unleash the potential of Diffusion Model for Open-Vocabulary 3D Affordance Grounding**
-
-Hanqing Wang†*, **Zhenhao Zhang†#**, Kaiyang Ji†, Mingyu Liu, Wenti Yin, Yuchao Chen, Zhirui Liu, Xiangyu Zeng, Tianxiang Gui, Hangxing Zhang
-
-[[**Project Page**]](http://zhenhao-zhang.github.io/DAG_page/)
-
-</div>
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='papers/QVPO/QVPO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
