@@ -47,7 +47,7 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 †:Equal Contribution *:Corresponding Author #Student First Author ‡Project Leader
 
 <div style="background-color: #ffffdc; ">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Coming Soon</div><img src='papers/HOID-R1/HOID-R1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='papers/HOID-R1/HOID-R1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **HOID-R1: Reinforcement Learning for Open-World Human-Object Interaction Detection Reasoning with Multimodal Large Language Model**
@@ -60,7 +60,7 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 </div>
 
 <div style="background-color: #ffffdc; ">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Coming Soon</div><img src='papers/Spatial-ORMLLM/Spatial-ORMLLM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='papers/Spatial-ORMLLM/Spatial-ORMLLM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Spatial-ORMLLM: Improve Spatial Relation Understanding in the Operating Room with Multimodal Large Language Model**
@@ -73,7 +73,7 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Coming Soon</div><img src='papers/SDEval/SDEval.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='papers/SDEval/SDEval.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **SDEval: Safety Dynamic Evaluation for Multimodal Large Language Models**
@@ -100,7 +100,7 @@ Hanqing Wang, Yuan Tian, Mingyu Liu, **Zhenhao Zhang**, Xiangyang Zhu\*
 
 
 <div style="background-color: #ffffdc; ">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Coming Soon</div><img src='papers/DAG/DAG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='papers/DAG/DAG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **DAG: Unleash the potential of Diffusion Model for Open-Vocabulary 3D Affordance Grounding**
