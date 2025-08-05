@@ -92,7 +92,7 @@ Hanqing Wang, Yuan Tian, Mingyu Liu, **Zhenhao Zhang**, Xiangyang Zhu\*
 
 Hanqing Wang†*, **Zhenhao Zhang†#**, Kaiyang Ji†, Mingyu Liu, Wenti Yin, Yuchao Chen, Zhirui Liu, Xiangyu Zeng, Tianxiang Gui, Hangxing Zhang
 
-[[**Project Page**]](http://zhenhao-zhang.github.io/DAG_page/)
+[![arXiv](https://img.shields.io/badge/arXiv-2508.01651-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2508.01651)[[**Project Page**]](http://zhenhao-zhang.github.io/DAG_page/)
 
 </div>
 </div>
