@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Zhenhao Zhang 章震豪&section=header&reversal=false&textBg=false&descAlign=50&descAlignY=50&animation=fadeIn)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Zhenhao Zhang 章震豪&section=header&reversal=false&textBg=false&descAlign=50&descAlignY=50&animation=fadeIn) -->
 
 I am Current a First-year Master student in ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io) and [Prof. Jingya Wang](https://faculty.sist.shanghaitech.edu.cn/faculty/wangjingya/),who are experts in the field of Computer Vision.I get B.E. Degree in China University of Petroleum under the supervision of [Prof. Yunquan Song](https://sci.upc.edu.cn/2019/0513/c14558a206193/page.htm), who is an expert in the field of High-Dimensional Statistic.
 <!-- 
@@ -40,7 +40,7 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
     color: #333;
     font-family: 'STXingkai', 'LiSu', 'KaiTi', cursive;
     line-height: 1.6;
-    border-left: 4px solid #e0aaff;
+    border-left: 4px solid #b3aaffff;
     background: transparent;
     transition: all 0.3s ease;
 ">
