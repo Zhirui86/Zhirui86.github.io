@@ -39,24 +39,9 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
     background: #f8f8f8;
     text-align: center;
     font-size: 1.2em;
-">加载中...</div>
+"></div>
 
-<script>
-// 句子列表
-const sentences = [
-    "清晨的阳光温柔地抚摸着大地",
-    "那只橘猫懒洋洋地躺在窗台上",
-    "程序员盯着屏幕，陷入了沉思",
-    "咖啡的香气弥漫在整个房间",
-    "远处传来孩子们欢快的笑声"
-];
 
-// 页面加载时显示随机句子
-document.addEventListener('DOMContentLoaded', function() {
-    const randomSentence = sentences[Math.floor(Math.random() * sentences.length)];
-    document.getElementById('random-sentence').textContent = randomSentence;
-});
-</script>
 
 
 
@@ -265,22 +250,20 @@ Paper:ARXIV2023[[paper]](https://arxiv.org/abs/2410.16722)
 
 
 
-```javascript
-function getRandomSentence() {
-  const sentences = [
+
+<script>
+// 句子列表
+const sentences = [
     "清晨的阳光温柔地抚摸着大地",
     "那只橘猫懒洋洋地躺在窗台上",
     "程序员盯着屏幕，陷入了沉思",
     "咖啡的香气弥漫在整个房间",
-    "远处传来孩子们欢快的笑声",
-    "雨滴轻轻敲打着玻璃窗",
-    "书本的纸页散发出淡淡的墨香",
-    "晚风带着花香穿过小巷",
-    "车站的钟声准时在六点响起",
-    "厨房里飘来阵阵面包的甜香"
-  ];
-  return sentences[Math.floor(Math.random() * sentences.length)];
-}
+    "远处传来孩子们欢快的笑声"
+];
 
-// 示例使用
-console.log(getRandomSentence());
+// 页面加载时显示随机句子
+document.addEventListener('DOMContentLoaded', function() {
+    const randomSentence = sentences[Math.floor(Math.random() * sentences.length)];
+    document.getElementById('random-sentence').textContent = randomSentence;
+});
+</script>
