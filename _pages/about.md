@@ -85,12 +85,14 @@ Hanqing Wang, Yuan Tian, Mingyu Liu, **Zhenhao Zhang**, Xiangyang Zhu\*
 </div>
 
 <div style="background-color: #ffffdc; ">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='papers/DAG/DAG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WAIC 2025</div><img src='papers/DAG/DAG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **DAG: Unleash the potential of Diffusion Model for Open-Vocabulary 3D Affordance Grounding**
 
 Hanqing Wang†*, **Zhenhao Zhang†#**, Kaiyang Ji†, Mingyu Liu, Wenti Yin, Yuchao Chen, Zhirui Liu, Xiangyu Zeng, Tianxiang Gui, Hangxing Zhang
+
+**<font color='red'>NeurIPS 2024(CCF A)</font>**
 
 [![arXiv](https://img.shields.io/badge/arXiv-2508.01651-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2508.01651)[[**Project Page**]](http://zhenhao-zhang.github.io/DAG_page/)
 
@@ -116,9 +118,11 @@ Hanqing Wang†*, **Zhenhao Zhang†#**, Kaiyang Ji†, Mingyu Liu, Wenti Yin, Y
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='papers/QVPO/QVPO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Diffusion-based Reinforcement Learning via Q-weighted Variational Policy Optimization,NeurIPS 2024(CCF A)**
+**Diffusion-based Reinforcement Learning via Q-weighted Variational Policy Optimization"**
 
 Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya Wang, Ye Shi\*
+
+**<font color='red'>NeurIPS 2024(CCF A)</font>**
 
 [![arXiv](https://img.shields.io/badge/arXiv-2405.16173-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2405.16173)[[**Poster**]](https://neurips.cc/virtual/2024/poster/94963)[[**Project Page**]](http://wadx2019.github.io/qvpo-webpage/)[[**Code**]](https://github.com/wadx2019/qvpo/)
 </div>
