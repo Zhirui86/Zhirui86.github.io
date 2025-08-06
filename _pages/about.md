@@ -32,14 +32,36 @@ My Research interest include Large Language Model, Spatial Intelligence and Embo
 Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 <div id="random-sentence" style="
-    padding: 1rem;
-    margin: 1rem 0;
-    border: 1px solid #eee;
-    border-radius: 4px;
-    background: #f8f8f8;
+    padding: 1.5rem;
+    margin: 1.5rem 0;
+    border: none;
+    border-radius: 12px;
+    background: linear-gradient(135deg, #f5f7fa 0%, #e4e8f0 100%);
     text-align: center;
-    font-size: 1.2em;
-"></div>
+    font-size: 1.3em;
+    font-weight: 500;
+    color: #333;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    transition: all 0.3s ease;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+">
+    <div style="
+        position: absolute;
+        top: -50%;
+        left: -50%;
+        width: 200%;
+        height: 200%;
+        background: linear-gradient(
+            to bottom right,
+            rgba(255,255,255,0.3) 0%,
+            rgba(255,255,255,0) 60%
+        );
+        transform: rotate(30deg);
+        pointer-events: none;
+    "></div>
+</div>
 
 
 
@@ -252,16 +274,30 @@ Paper:ARXIV2023[[paper]](https://arxiv.org/abs/2410.16722)
 
 
 <script>
-// 句子列表
+
 const sentences = [
-    "清晨的阳光温柔地抚摸着大地",
-    "那只橘猫懒洋洋地躺在窗台上",
-    "程序员盯着屏幕，陷入了沉思",
-    "咖啡的香气弥漫在整个房间",
-    "远处传来孩子们欢快的笑声"
+    "断剑重铸之日，骑士归来之时",
+    "真正的大师永远都怀着一颗学徒的心",
+    "树叶的一生，只是为了归根吗？",
+    "每个人都戴着面具，我不过是自制了一副而已",
+    "子弹在膛，扳机轻语，我们该登场了",
+    "我的才能会让这个舞台更加完美",
+    "世界既不黑也不白，而是一道精致的灰",
+    "均衡存乎万物之间",
+    "吾所成之事，不可逆也",
+    "我回来了，为了那些回不来的人",
+    "我宁愿犯错，也不愿什么都不做",
+    "时间不在于你拥有多少，而在于你怎样使用",
+    "风中传来苦咸，是悔恨的气味吗",
+    "疾风亦有归途",
+    "我曾追逐不羁的狂风，如今我正狩猎黑暗化作的风暴",
+    "天下万般兵刃，唯有过往伤人最深",
+    "我曾踏足山巅，也曾进入低谷，二者都让我受益良多",
+    "人说谎言，剑说真相",
+
 ];
 
-// 页面加载时显示随机句子
+
 document.addEventListener('DOMContentLoaded', function() {
     const randomSentence = sentences[Math.floor(Math.random() * sentences.length)];
     document.getElementById('random-sentence').textContent = randomSentence;
