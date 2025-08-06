@@ -32,35 +32,19 @@ My Research interest include Large Language Model, Spatial Intelligence and Embo
 Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 <div id="random-sentence" style="
-    padding: 1.5rem;
+    padding: 1.2rem 1.5rem;
     margin: 1.5rem 0;
-    border: none;
-    border-radius: 12px;
-    background: linear-gradient(135deg, #f5f7fa 0%, #e4e8f0 100%);
-    text-align: center;
-    font-size: 1.3em;
+    text-align: left;
+    font-size: 1.4em;
     font-weight: 500;
     color: #333;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    font-family: 'STXingkai', 'LiSu', 'KaiTi', cursive;
+    line-height: 1.6;
+    border-left: 4px solid #e0aaff;
+    background: transparent;
     transition: all 0.3s ease;
-    cursor: pointer;
-    position: relative;
-    overflow: hidden;
 ">
-    <div style="
-        position: absolute;
-        top: -50%;
-        left: -50%;
-        width: 200%;
-        height: 200%;
-        background: linear-gradient(
-            to bottom right,
-            rgba(255,255,255,0.3) 0%,
-            rgba(255,255,255,0) 60%
-        );
-        transform: rotate(30deg);
-        pointer-events: none;
-    "></div>
+
 </div>
 
 
