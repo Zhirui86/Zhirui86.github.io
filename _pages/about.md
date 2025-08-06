@@ -31,8 +31,32 @@ My Research interest include Large Language Model, Spatial Intelligence and Embo
 
 Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
+<div id="random-sentence" style="
+    padding: 1rem;
+    margin: 1rem 0;
+    border: 1px solid #eee;
+    border-radius: 4px;
+    background: #f8f8f8;
+    text-align: center;
+    font-size: 1.2em;
+">加载中...</div>
 
+<script>
+// 句子列表
+const sentences = [
+    "清晨的阳光温柔地抚摸着大地",
+    "那只橘猫懒洋洋地躺在窗台上",
+    "程序员盯着屏幕，陷入了沉思",
+    "咖啡的香气弥漫在整个房间",
+    "远处传来孩子们欢快的笑声"
+];
 
+// 页面加载时显示随机句子
+document.addEventListener('DOMContentLoaded', function() {
+    const randomSentence = sentences[Math.floor(Math.random() * sentences.length)];
+    document.getElementById('random-sentence').textContent = randomSentence;
+});
+</script>
 
 
 
@@ -118,7 +142,7 @@ Hanqing Wang†*, **Zhenhao Zhang†#**, Kaiyang Ji†, Mingyu Liu, Wenti Yin, Y
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='papers/QVPO/QVPO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Diffusion-based Reinforcement Learning via Q-weighted Variational Policy Optimization"**
+**Diffusion-based Reinforcement Learning via Q-weighted Variational Policy Optimization**
 
 Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya Wang, Ye Shi\*
 
@@ -241,3 +265,22 @@ Paper:ARXIV2023[[paper]](https://arxiv.org/abs/2410.16722)
 
 
 
+```javascript
+function getRandomSentence() {
+  const sentences = [
+    "清晨的阳光温柔地抚摸着大地",
+    "那只橘猫懒洋洋地躺在窗台上",
+    "程序员盯着屏幕，陷入了沉思",
+    "咖啡的香气弥漫在整个房间",
+    "远处传来孩子们欢快的笑声",
+    "雨滴轻轻敲打着玻璃窗",
+    "书本的纸页散发出淡淡的墨香",
+    "晚风带着花香穿过小巷",
+    "车站的钟声准时在六点响起",
+    "厨房里飘来阵阵面包的甜香"
+  ];
+  return sentences[Math.floor(Math.random() * sentences.length)];
+}
+
+// 示例使用
+console.log(getRandomSentence());
