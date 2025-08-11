@@ -68,7 +68,7 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='papers/SDEval/SDEval.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV</div><img src='papers/SDEval/SDEval.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **SDEval: Safety Dynamic Evaluation for Multimodal Large Language Models**
