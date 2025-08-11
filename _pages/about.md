@@ -20,32 +20,12 @@ redirect_from:
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Zhenhao Zhang 章震豪&section=header&reversal=false&textBg=false&descAlign=50&descAlignY=50&animation=fadeIn) -->
 
 I am Current a First-year Master student in ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io) and [Prof. Jingya Wang](https://faculty.sist.shanghaitech.edu.cn/faculty/wangjingya/),who are experts in the field of Computer Vision.I get B.E. Degree in China University of Petroleum under the supervision of [Prof. Yunquan Song](https://sci.upc.edu.cn/2019/0513/c14558a206193/page.htm), who is an expert in the field of High-Dimensional Statistic.
-<!-- 
-<a href='https://scholar.google.com.hk/citations?user=dV36HmYAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/zhenhao-zhang/zhenhao-zhang.github.io@google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
-
-<!-- <a href='https://scholar.google.com/citations?user=dV36HmYAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/Zhenhao-Zhang/Zhenhao-Zhang.github.io@google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
-
-<!-- <a href="https://scholar.google.com/citations?user=dV36HmYAAAAJ"><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&amp;url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fyisuanwang%2Fyisuanwang.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&amp;labelColor=f6f6f6&amp;color=9cf&amp;style=flat&amp;label=citations"></a> -->
 
 My Research interest include Large Language Model, Spatial Intelligence and Embodied AI. Now I focus on the topic of LLM Application, 3D Generation and Understanding. Click [Here](https://zhenhao-zhang.github.io/CV/zhangzhh_CV_homepage.pdf) to visit my CV. I am looking for Collaborators and Friends. Feel free to contact me if you are interested in these fantasic topics!
 
 Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
-<div id="random-sentence" style="
-    padding: 1.2rem 1.5rem;
-    margin: 1.5rem 0;
-    text-align: left;
-    font-size: 1.4em;
-    font-weight: 500;
-    color: #333;
-    font-family: 'STXingkai', 'LiSu', 'KaiTi', cursive;
-    line-height: 1.6;
-    border-left: 4px solid #b3aaffff;
-    background: transparent;
-    transition: all 0.3s ease;
-">
 
-</div>
 
 
 
@@ -258,33 +238,4 @@ Paper:ARXIV2023[[paper]](https://arxiv.org/abs/2410.16722)
 
 
 
-<script>
 
-const sentences = [
-    "断剑重铸之日，骑士归来之时",
-    "真正的大师永远都怀着一颗学徒的心",
-    "树叶的一生，只是为了归根吗？",
-    "每个人都戴着面具，我不过是自制了一副而已",
-    "子弹在膛，扳机轻语，我们该登场了",
-    "我的才能会让这个舞台更加完美",
-    "世界既不黑也不白，而是一道精致的灰",
-    "均衡存乎万物之间",
-    "吾所成之事，不可逆也",
-    "我回来了，为了那些回不来的人",
-    "我宁愿犯错，也不愿什么都不做",
-    "时间不在于你拥有多少，而在于你怎样使用",
-    "风中传来苦咸，是悔恨的气味吗",
-    "疾风亦有归途",
-    "我曾追逐不羁的狂风，如今我正狩猎黑暗化作的风暴",
-    "天下万般兵刃，唯有过往伤人最深",
-    "我曾踏足山巅，也曾进入低谷，二者都让我受益良多",
-    "人说谎言，剑说真相",
-
-];
-
-
-document.addEventListener('DOMContentLoaded', function() {
-    const randomSentence = sentences[Math.floor(Math.random() * sentences.length)];
-    document.getElementById('random-sentence').textContent = randomSentence;
-});
-</script>
