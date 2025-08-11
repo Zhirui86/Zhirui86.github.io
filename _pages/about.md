@@ -95,6 +95,7 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 Hanqing Wang, Yuan Tian, Mingyu Liu, **Zhenhao Zhang**, Xiangyang Zhu\*
 
+[![arXiv](https://img.shields.io/badge/arXiv-2508.06142-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2508.06142)
 
 </div>
 </div>
