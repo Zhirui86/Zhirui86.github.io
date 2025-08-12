@@ -62,6 +62,7 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
  Peiqi He†, **Zhenhao Zhang†‡**, Yixiang Zhang, Xiongjun Zhao\*, Shaoliang Peng\*
 
+[![arXiv](https://img.shields.io/badge/arXiv-2508.08199-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2508.08199)
 
 </div>
 </div>
