@@ -173,7 +173,7 @@ Major: B.E. in **Computer Science and Technology**
 
 <span style="font-size:18px;">**SignalPlus**</span>
 
-*2025.6 - 2025.9*
+*2025.6 - 2025.8*
 
 AI Agent System Development Intern
 
