@@ -51,6 +51,8 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 **Zhenhao Zhang†**, Hanqing Wang†‡, Xiangyu Zeng†, etc.
 
+[![arXiv](https://img.shields.io/badge/arXiv-2508.11350-b31b1b.svg?style=flat-square)](http://arxiv.org/abs/2508.11350)
+
 </div>
 </div>
 </div>
