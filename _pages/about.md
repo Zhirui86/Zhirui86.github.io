@@ -44,20 +44,6 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 †:Equal Contribution *:Corresponding Author #Student First Author ‡Project Leader
 
 <div style="background-color: #ffffdc; ">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='papers/HOID-R1/HOID-R1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**HOID-R1: Reinforcement Learning for Open-World Human-Object Interaction Detection Reasoning with Multimodal Large Language Model**
-
-**Zhenhao Zhang†**, Hanqing Wang†‡, Xiangyu Zeng†, etc.
-
-[![arXiv](https://img.shields.io/badge/arXiv-2508.11350-b31b1b.svg?style=flat-square)](http://arxiv.org/abs/2508.11350)
-
-</div>
-</div>
-</div>
-
-<div style="background-color: #ffffdc; ">
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='papers/Spatial-ORMLLM/Spatial-ORMLLM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
