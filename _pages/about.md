@@ -32,7 +32,7 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 
 # 🔥 News
-- *2025*: I serve as PC Member of ICML 2025, NeurIPS 2025, IJCNN 2025, AAAI 2026, ICCV 2025 Workshop HRSIC in year of 2025.
+- *2025*: I serve as PC Member of ICML 2025, NeurIPS 2025, IJCNN 2025, AAAI 2026, ICCV 2025 Workshop HRSIC, AISTATS 2026 in year of 2025.
 - *2025.07*:[**DAG**](http://zhenhao-zhang.github.io/DAG_page/) accepted by **WAIC 2025**!
 - *2025.06*:I join [SignalPlus](http://signalplus.com) as an AI Agent System Development Intern for Quantitative Trading!
 - *2024*: I serve as PC Member of NeurIPS 2024, ICLR 2025, AISTATS 2025 in year of 2024.
@@ -215,7 +215,7 @@ Paper:ARXIV2023[[paper]](https://arxiv.org/abs/2410.16722)
 - Member of ACM-ICPC Club@UPC and MCM Association@UPC
 
 # 💼 Services
-*  PC Member: NeurIPS 2024, ICLR 2025, AISTATS 2025, ICML 2025, NeurIPS 2025, IJCNN 2025, AAAI 2026, ICCV 2025 Workshop HRSIC
+*  PC Member: NeurIPS 2024, ICLR 2025, AISTATS 2025, ICML 2025, NeurIPS 2025, IJCNN 2025, AAAI 2026, ICCV 2025 Workshop HRSIC, AISTATS 2026
 *  Association Member: CAA Member, CCF Student Member
 
 # 🤝 Friends
