@@ -21,7 +21,12 @@ redirect_from:
 
 I am Current a First-year Master student in ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io) and [Prof. Jingya Wang](https://faculty.sist.shanghaitech.edu.cn/faculty/wangjingya/),who are experts in the field of Computer Vision.I get B.E. Degree in China University of Petroleum under the supervision of [Prof. Yunquan Song](https://sci.upc.edu.cn/2019/0513/c14558a206193/page.htm), who is an expert in the field of High-Dimensional Statistic.
 
-My Research interest include Large Language Model, Spatial Intelligence and Embodied AI. Now I focus on the topic of LLM Application, 3D Generation and Understanding. Click [Here](https://zhenhao-zhang.github.io/CV/zhangzhh_CV_homepage.pdf) to visit my CV. I am looking for Collaborators and Friends. Feel free to contact me if you are interested in these fantasic topics!
+My Research interest include Large Language Models, Spatial Intelligence and Embodied AI. Now I focus on the topic:
+- Spatial Synthesis and Reasoning: Improve 3D Understanding, 3D Affordance Reasoning, Manipulation Sequences Synthesis
+- Robot Manipulation:Hand-Object interaction, Human-Object Interaction, Grasp
+- AI4Science:Biomedical Information, AI Agent, Economical Science, LLM Application
+
+Click [Here](https://zhenhao-zhang.github.io/CV/zhangzhh_CV_homepage.pdf) to visit my CV. I am looking for Collaborators and Friends. Feel free to contact me if you are interested in these fantasic topics!
 
 Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
