@@ -38,10 +38,10 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 # 🔥 News
 - *2025*: I serve as PC Member of ICML 2025, NeurIPS 2025, IJCNN 2025, AAAI 2026, ICCV 2025 Workshop HRSIC, AISTATS 2026, ICLR 2026 in year of 2025.
-- *2025.07*:[**DAG**](http://zhenhao-zhang.github.io/DAG_page/) accepted by **WAIC 2025**!
+- *2025.07*:[**DAG**](http://zhenhao-zhang.github.io/DAG_page/) accepted by **<font color='red'>WAIC 2025</font>**!
 - *2025.06*:I join [SignalPlus](http://signalplus.com) as an AI Agent System Development Intern for Quantitative Trading!
 - *2024*: I serve as PC Member of NeurIPS 2024, ICLR 2025, AISTATS 2025 in year of 2024.
-- *2024.09*:[**QVPO**](http://wadx2019.github.io/qvpo-webpage/) accepted by **NeurIPS 2024(CCF A)**!
+- *2024.09*:[**QVPO**](http://wadx2019.github.io/qvpo-webpage/) accepted by **<font color='red'>NeurIPS 2024</font>**!
 - *2024.09*:I join ShanghaiTech University,[VDI Center](https://vdi.sist.shanghaitech.edu.cn/) as a CS Master Student!
 
 
@@ -113,7 +113,7 @@ Hanqing Wang†*, **Zhenhao Zhang†#**, Kaiyang Ji†, etc.
 
 Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya Wang, Ye Shi\*
 
-**<font color='red'>NeurIPS 2024(CCF A)</font>**
+**<font color='red'>NeurIPS 2024</font>**
 
 [![arXiv](https://img.shields.io/badge/arXiv-2405.16173-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2405.16173)[[**Poster**]](https://neurips.cc/virtual/2024/poster/94963)[[**Project Page**]](http://wadx2019.github.io/qvpo-webpage/)[[**Code**]](https://github.com/wadx2019/qvpo/)
 </div>
