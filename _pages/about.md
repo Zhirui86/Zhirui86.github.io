@@ -21,12 +21,7 @@ redirect_from:
 
 I am Current a First-year Master student in ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io) and [Prof. Jingya Wang](https://faculty.sist.shanghaitech.edu.cn/faculty/wangjingya/),who are experts in the field of Computer Vision.I get B.E. Degree in China University of Petroleum under the supervision of [Prof. Yunquan Song](https://sci.upc.edu.cn/2019/0513/c14558a206193/page.htm), who is an expert in the field of High-Dimensional Statistic.
 
-My Research interest include Large Language Models, Spatial Intelligence and Embodied AI. Now I focus on the topic:
-- Spatial Synthesis and Reasoning: Improve 3D Understanding, 3D Affordance Reasoning, Manipulation Sequences Synthesis
-- Robot Manipulation:Hand-Object interaction, Human-Object Interaction, Grasp
-- AI4Science:Biomedical Information, AI Agent, Economical Science, LLM Application
-
-Click [Here](https://zhenhao-zhang.github.io/CV/zhangzhh_CV_homepage.pdf) to visit my CV. I am looking for Collaborators and Friends. Feel free to contact me if you are interested in these fantasic topics!
+My Research interest include Large Language Models and Embodied AI. Now I focus on the topic of Spatial Synthesis and Reasoning, Robot Manipulation and AI4Science.Click [Here](https://zhenhao-zhang.github.io/CV/zhangzhh_CV_homepage.pdf) to visit my CV. I am looking for Collaborators and Friends. Feel free to contact me if you are interested in these fantasic topics!
 
 Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
@@ -37,10 +32,8 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 
 # 🔥 News
-- *2025*: I serve as PC Member of ICML 2025, NeurIPS 2025, IJCNN 2025, AAAI 2026, ICCV 2025 Workshop HRSIC, AISTATS 2026, ICLR 2026 in year of 2025.
 - *2025.09*:[**OpenHOI**](http://openhoi.github.io) accepted by **NeurIPS 2025 as <font color='red'>Oral</font>**!
 - *2025.06*:I join [SignalPlus](http://signalplus.com) as an AI Agent System Development Intern for Quantitative Trading!
-- *2024*: I serve as PC Member of NeurIPS 2024, ICLR 2025, AISTATS 2025 in year of 2024.
 - *2024.09*:[**QVPO**](http://wadx2019.github.io/qvpo-webpage/) accepted by **NeurIPS 2024**!
 - *2024.09*:I join ShanghaiTech University,[VDI Center](https://vdi.sist.shanghaitech.edu.cn/) as a CS Master Student!
 
