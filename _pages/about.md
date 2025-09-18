@@ -47,48 +47,8 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 # 📝 Selected Publications 
 †:Equal Contribution *:Corresponding Author [Full Publications](https://scholar.google.com/citations?user=dV36HmYAAAAJ)
-<!-- <div style="background-color: #ffffdc; ">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='papers/Spatial-ORMLLM/Spatial-ORMLLM.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Spatial-ORMLLM: Improve Spatial Relation Understanding in the Operating Room with Multimodal Large Language Model**
-
- Peiqi He†, **Zhenhao Zhang†**, Yixiang Zhang, Xiongjun Zhao\*, Shaoliang Peng\*
-
-[![arXiv](https://img.shields.io/badge/arXiv-2508.08199-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2508.08199)
-
-</div>
-</div>
-</div> -->
 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='papers/SDEval/SDEval.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**SDEval: Safety Dynamic Evaluation for Multimodal Large Language Models**
-
-Hanqing Wang, Yuan Tian, Mingyu Liu, **Zhenhao Zhang**, Xiangyang Zhu\*
-
-[![arXiv](https://img.shields.io/badge/arXiv-2508.06142-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2508.06142)
-
-</div>
-</div> -->
-
-<!-- <div style="background-color: #ffffdc; ">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WAIC 2025</div><img src='papers/DAG/DAG.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**DAG: Unleash the potential of Diffusion Model for Open-Vocabulary 3D Affordance Grounding**
-
-Hanqing Wang†*, **Zhenhao Zhang†#**, Kaiyang Ji†, etc.
-
-**<font color='red'>WAIC 2025</font>**
-
-[![arXiv](https://img.shields.io/badge/arXiv-2508.01651-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2508.01651)[[**Project Page**]](http://zhenhao-zhang.github.io/DAG_page/)
-
-</div>
-</div>
-</div> -->
 
 <div style="background-color: #ffffdc; ">
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 Oral</div><img src='papers/OpenHOI/OpenHOI.png' alt="sym" width="100%"></div></div>
