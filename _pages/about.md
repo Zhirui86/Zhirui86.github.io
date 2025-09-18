@@ -46,24 +46,23 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 
 # 📝 Selected Publications 
-†:Equal Contribution *:Corresponding Author #Student First Author ‡Project Leader
-
-<div style="background-color: #ffffdc; ">
+†:Equal Contribution *:Corresponding Author [Full Publications](https://scholar.google.com/citations?user=dV36HmYAAAAJ)
+<!-- <div style="background-color: #ffffdc; ">
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='papers/Spatial-ORMLLM/Spatial-ORMLLM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Spatial-ORMLLM: Improve Spatial Relation Understanding in the Operating Room with Multimodal Large Language Model**
 
- Peiqi He†, **Zhenhao Zhang†‡**, Yixiang Zhang, Xiongjun Zhao\*, Shaoliang Peng\*
+ Peiqi He†, **Zhenhao Zhang†**, Yixiang Zhang, Xiongjun Zhao\*, Shaoliang Peng\*
 
 [![arXiv](https://img.shields.io/badge/arXiv-2508.08199-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2508.08199)
 
 </div>
 </div>
-</div>
+</div> -->
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='papers/SDEval/SDEval.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='papers/SDEval/SDEval.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **SDEval: Safety Dynamic Evaluation for Multimodal Large Language Models**
@@ -73,9 +72,9 @@ Hanqing Wang, Yuan Tian, Mingyu Liu, **Zhenhao Zhang**, Xiangyang Zhu\*
 [![arXiv](https://img.shields.io/badge/arXiv-2508.06142-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2508.06142)
 
 </div>
-</div>
+</div> -->
 
-<div style="background-color: #ffffdc; ">
+<!-- <div style="background-color: #ffffdc; ">
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WAIC 2025</div><img src='papers/DAG/DAG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -89,15 +88,17 @@ Hanqing Wang†*, **Zhenhao Zhang†#**, Kaiyang Ji†, etc.
 
 </div>
 </div>
-</div>
+</div> -->
 
 <div style="background-color: #ffffdc; ">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='papers/OpenHOI/OpenHOI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 Oral</div><img src='papers/OpenHOI/OpenHOI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **OpenHOI: Open-World Hand-Object Interaction Synthesis with Multimodal Large Language Model**
 
 **Zhenhao Zhang**, Ye Shi\*, Lingxiao Yang, Suting Ni, Qi Ye, Jingya Wang\*
+
+**<font color='red'>NeurIPS 2025 Oral</font>**
 
 [![arXiv](https://img.shields.io/badge/arXiv-2505.18947-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2505.18947)[[**Project Page**]](http://openhoi.github.io)
 </div>
@@ -106,14 +107,14 @@ Hanqing Wang†*, **Zhenhao Zhang†#**, Kaiyang Ji†, etc.
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='papers/QVPO/QVPO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 Poster</div><img src='papers/QVPO/QVPO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Diffusion-based Reinforcement Learning via Q-weighted Variational Policy Optimization**
 
 Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya Wang, Ye Shi\*
 
-**<font color='red'>NeurIPS 2024</font>**
+**NeurIPS 2024 Poster**
 
 [![arXiv](https://img.shields.io/badge/arXiv-2405.16173-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2405.16173)[[**Poster**]](https://neurips.cc/virtual/2024/poster/94963)[[**Project Page**]](http://wadx2019.github.io/qvpo-webpage/)[[**Code**]](https://github.com/wadx2019/qvpo/)
 </div>
