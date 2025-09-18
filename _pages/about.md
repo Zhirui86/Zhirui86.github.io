@@ -127,6 +127,8 @@ AI Agent System Development Intern
 
 Project: LLMs for Quantitative Trading
 
+</div>
+</div>
 
 # 📚 Projects
 
