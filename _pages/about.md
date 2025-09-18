@@ -128,50 +128,10 @@ AI Agent System Development Intern
 Project: LLMs for Quantitative Trading
 
 
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/skd.png' alt="sym" width="95%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<span style="font-size:18px;">**ShanghaiTech University**</span>
-
-*2024.3 - 2024.9*
-
-VDI Center,YesAI Lab
-
-Visiting Student: Reinforcement Learning, Embodied AI
-
-Paper:NeurIPS2024[[paper]](https://arxiv.org/abs/2405.16173)
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/upc.png' alt="sym" width="95%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<span style="font-size:18px;">**China University of Petroleum**</span>
-
-*2021.7 - 2023.9*
-
-Department of Data Science and Statistics
-
-Research Intern: Machine Learning, Biomedical Information
-
-Paper:ARXIV2023[[paper]](https://arxiv.org/abs/2410.16722)
-
-</div>
-</div>
-
-
-# 📚 Other Experiences
+# 📚 Projects
 
 - Main Contributor in [Awesome Affordance Learning](https://github.com/hq-King/Awesome-Affordance-Learning)<img src="https://img.shields.io/github/stars/hq-King/Awesome-Affordance-Learning" alt="GitHub stars"> merged in [Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) <img src="https://img.shields.io/github/stars/TianxingChen/Embodied-AI-Guide" alt="GitHub stars">
-- Predictive Algorithm Intern in [HAOMO AI](http://haomo.ai). Project: Hybrid Auto-driving based on rules and networks
-- Research Intern in [MIG@UPC](http://wenjuangong.com). Project: Segmentation in the Dark.
-- Machine Vision Intern in [UPC-Artrobot](http://www.artrobot.com/) Cooperation Item. Project: Intelligent Vehicle
-- Member of ACM-ICPC Club@UPC and MCM Association@UPC
+
 
 # 💼 Services
 *  PC Member: NeurIPS 2024, ICLR 2025, AISTATS 2025, ICML 2025, NeurIPS 2025, IJCNN 2025, AAAI 2026, ICCV 2025 Workshop HRSIC, AISTATS 2026, ICLR 2026
