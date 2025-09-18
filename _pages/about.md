@@ -32,7 +32,7 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 
 # 🔥 News
-- *2025.09*:[**OpenHOI**](http://openhoi.github.io) accepted by **NeurIPS 2025 as <font color='red'>Oral(77/21575，0.3%)</font>**!
+- *2025.09*:[**OpenHOI**](http://openhoi.github.io) accepted by **NeurIPS 2025 as <font color='red'>Oral(77/21575,0.3%)</font>**!
 - *2025.06*:I join [SignalPlus](http://signalplus.com) as an AI Agent System Development Intern for Quantitative Trading!
 - *2024.09*:[**QVPO**](http://wadx2019.github.io/qvpo-webpage/) accepted by **NeurIPS 2024**!
 - *2024.09*:I join ShanghaiTech University,[VDI Center](https://vdi.sist.shanghaitech.edu.cn/) as a CS Master Student!
@@ -51,7 +51,7 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 **Zhenhao Zhang**, Ye Shi\*, Lingxiao Yang, Suting Ni, Qi Ye, Jingya Wang\*
 
-**<font color='red'>NeurIPS 2025 Oral(77/21575，0.3%)</font>**
+**<font color='red'>NeurIPS 2025 Oral(77/21575,0.3%)</font>**
 
 [![arXiv](https://img.shields.io/badge/arXiv-2505.18947-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2505.18947)[[**Project Page**]](http://openhoi.github.io)
 </div>
