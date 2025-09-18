@@ -38,7 +38,7 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 # 🔥 News
 - *2025*: I serve as PC Member of ICML 2025, NeurIPS 2025, IJCNN 2025, AAAI 2026, ICCV 2025 Workshop HRSIC, AISTATS 2026, ICLR 2026 in year of 2025.
-- *2025.09*:[**OpenHOI**](http://openhoi.github.io) accepted by **NeurIPS 2025 as a <font color='red'>Oral</font>**!
+- *2025.09*:[**OpenHOI**](http://openhoi.github.io) accepted by **NeurIPS 2025 as <font color='red'>Oral</font>**!
 - *2025.06*:I join [SignalPlus](http://signalplus.com) as an AI Agent System Development Intern for Quantitative Trading!
 - *2024*: I serve as PC Member of NeurIPS 2024, ICLR 2025, AISTATS 2025 in year of 2024.
 - *2024.09*:[**QVPO**](http://wadx2019.github.io/qvpo-webpage/) accepted by **NeurIPS 2024**!
