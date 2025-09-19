@@ -19,7 +19,7 @@ redirect_from:
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Zhenhao Zhang 章震豪&section=header&reversal=false&textBg=false&descAlign=50&descAlignY=50&animation=fadeIn) -->
 
-I am Current a First-year Master student in ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io) and [Prof. Jingya Wang](https://faculty.sist.shanghaitech.edu.cn/faculty/wangjingya/),who are experts in the field of Computer Vision.I get B.E. Degree in China University of Petroleum under the supervision of [Prof. Yunquan Song](https://sci.upc.edu.cn/2019/0513/c14558a206193/page.htm), who is an expert in the field of High-Dimensional Statistic.
+I am Current a Second-year Master student in ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io) and [Prof. Jingya Wang](https://faculty.sist.shanghaitech.edu.cn/faculty/wangjingya/),who are experts in the field of Computer Vision.I get B.E. Degree in China University of Petroleum under the supervision of [Prof. Yunquan Song](https://sci.upc.edu.cn/2019/0513/c14558a206193/page.htm), who is an expert in the field of High-Dimensional Statistic.
 
 My Research interest include Large Language Models and Embodied AI. Now I focus on the topic of Spatial Synthesis and Reasoning, Robot Manipulation and AI4Science.Click [Here](https://zhenhao-zhang.github.io/CV/zhangzhh_CV_homepage.pdf) to visit my CV. I am looking for Collaborators and Friends. Feel free to contact me if you are interested in these fantasic topics!
 
