@@ -26,6 +26,7 @@ My Research interest include Large Language Models and Embodied AI. Now I focus 
 **<font color='red'>I am seeking PhD Position for 27 Fall in MLLM, 3D Computer Vision. Hong Kong and Singapore are my ideal choices!</font>**
 
 **<font color='red'>OpenHOI is accepted by NeurIPS as Oral(77/21575,0.3%)! Glad to see you in San Diego, USA</font>**
+
 Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 
