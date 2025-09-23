@@ -23,7 +23,7 @@ I am Current a Second-year Master student in ShanghaiTech University under the s
 
 My Research interest include Large Language Models and Embodied AI. Now I focus on the topic of Spatial Synthesis and Reasoning, Robot Manipulation and AI4Science.Click [Here](https://zhenhao-zhang.github.io/CV/zhangzhh_CV_homepage.pdf) to visit my CV. I am looking for Collaborators and Friends. Feel free to contact me if you are interested in these fantasic topics!
 
-**<font color='red'>I am seeking PhD Position for 27 Fall in MLLM, 3D Computer Vision. Hong Kong and Singapore are my ideal choices!</font>**
+<!-- **<font color='red'>I am seeking PhD Position for 27 Fall in MLLM, 3D Computer Vision. Hong Kong and Singapore are my ideal choices!</font>** -->
 
 **<font color='red'>OpenHOI is accepted by NeurIPS as Oral(77/21575,0.3%)! Glad to see you in San Diego, USA</font>**
 
@@ -37,7 +37,7 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 # 🔥 News
 - *2025.09*:[**OpenHOI**](http://openhoi.github.io) accepted by **NeurIPS 2025 as <font color='red'>Oral(77/21575,0.3%)</font>**!
-- *2025.06*:I join [SignalPlus](http://signalplus.com) as an AI Agent System Development Intern for Quantitative Trading!
+- *2025.06-08*:I join [SignalPlus](http://signalplus.com) as an AI Agent System Development Intern for Quantitative Trading!
 - *2024.09*:[**QVPO**](http://wadx2019.github.io/qvpo-webpage/) accepted by **NeurIPS 2024**!
 - *2024.09*:I join ShanghaiTech University,[VDI Center](https://vdi.sist.shanghaitech.edu.cn/) as a CS Master Student!
 
@@ -80,11 +80,13 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 
 
 # 🎖 Selected Honors and Awards
-- *2023.5*,National Second Prize, China Robotics and Artificial Intelligence Competition
+<!-- - *2023.5*,National Second Prize, China Robotics and Artificial Intelligence Competition
 - *2023.4*,Shandong First Prize in Group A, LanQiao Cup
-- *2022.11*,Bronze Medal(SOLO), Kaggle Featured Code Competition
+- *2022.11*,Bronze Medal(SOLO), Kaggle Featured Code Competition -->
+
 - *2022.6*,Finalist, America Mathematics Contest in Modeling,Top 1%
-- *2021.4*,Shandong First Prize in Group A, LanQiao Cup
+
+<!-- - *2021.4*,Shandong First Prize in Group A, LanQiao Cup -->
 
 
 # 📖 Educations
@@ -134,21 +136,20 @@ Project: LLMs for Quantitative Trading
 </div>
 </div>
 
-# 📚 Projects
+<!-- # 📚 Projects
 
-- Main Contributor in [Awesome Affordance Learning](https://github.com/hq-King/Awesome-Affordance-Learning)<img src="https://img.shields.io/github/stars/hq-King/Awesome-Affordance-Learning" alt="GitHub stars"> merged in [Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) <img src="https://img.shields.io/github/stars/TianxingChen/Embodied-AI-Guide" alt="GitHub stars">
+- Main Contributor in [Awesome Affordance Learning](https://github.com/hq-King/Awesome-Affordance-Learning)<img src="https://img.shields.io/github/stars/hq-King/Awesome-Affordance-Learning" alt="GitHub stars"> merged in [Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) <img src="https://img.shields.io/github/stars/TianxingChen/Embodied-AI-Guide" alt="GitHub stars"> -->
 
 
 # 💼 Services
-*  PC Member: NeurIPS 2024, ICLR 2025, AISTATS 2025, ICML 2025, NeurIPS 2025, IJCNN 2025, AAAI 2026, ICCV 2025 Workshop HRSIC, AISTATS 2026, ICLR 2026
-*  Association Member: CAA Member, CCF Student Member
+*  Reviewer: NeurIPS 2024-2025, ICLR 2025-2026, ICML 2025,  AAAI 2026, AISTATS 2025-2026, ICCV 2025 Workshop HRSIC
 
-# 🤝 Friends
+<!-- # 🤝 Friends
 - Large Language Models:[Hanqing Wang](https://hq-king.github.io/),[Xiangyu Zeng](https://lanxingxuan.github.io/)
 - Computer Vision:[Jiaxin Liu](https://staskaer.github.io/),[Kaiyang Ji](https://CurMack.github.io/),[Zhirui Liu](https://zhirui86.github.io/),[Yuke Li](http://liyuke.cn/)
 - Emboided AI:[Yahao Fan](https://fanyahao1.github.io/),[Tianxiang Gui](https://shiki-ta.github.io/)
 - Reinforcement Learning:[Shutong Ding](http://wadx2019.github.io/),[Ke Hu](https://openreview.net/profile?id=~Ke_Hu9)
-- Generative Models:[Mokai Pan](https://serendipityerr.github.io/Homepage/)
+- Generative Models:[Mokai Pan](https://serendipityerr.github.io/Homepage/) -->
 
 
 
