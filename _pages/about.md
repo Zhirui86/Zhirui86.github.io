@@ -39,8 +39,6 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 - *2025.09*:[**OpenHOI**](http://openhoi.github.io) accepted by **NeurIPS 2025 as <font color='red'>Oral(77/21575,0.3%)</font>**!
 - *2025.06-08*:I join [SignalPlus](http://signalplus.com) as an AI Agent System Development Intern for Quantitative Trading!
 - *2024.09*:[**QVPO**](http://wadx2019.github.io/qvpo-webpage/) accepted by **NeurIPS 2024**!
-- *2024.09*:I join ShanghaiTech University,[VDI Center](https://vdi.sist.shanghaitech.edu.cn/) as a CS Master Student!
-
 
 # 📝 Selected Publications 
 †:Equal Contribution *:Corresponding Author [Full Publications](https://scholar.google.com/citations?user=dV36HmYAAAAJ)
@@ -78,17 +76,6 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 </div>
 
 
-
-# 🎖 Selected Honors and Awards
-<!-- - *2023.5*,National Second Prize, China Robotics and Artificial Intelligence Competition
-- *2023.4*,Shandong First Prize in Group A, LanQiao Cup
-- *2022.11*,Bronze Medal(SOLO), Kaggle Featured Code Competition -->
-
-- *2022.6*,Finalist, America Mathematics Contest in Modeling,Top 1%
-
-<!-- - *2021.4*,Shandong First Prize in Group A, LanQiao Cup -->
-
-
 # 📖 Educations
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/skd.png' alt="sym" width="95%"></div></div>
@@ -100,9 +87,9 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 
 School of Information Science and Technology
 
-Major: M.S. in **Computer Science**
+Major: M.S. in **Electronic Information**
 
-MoE Key Laboratory of Intelligent Perception and Human Machine Collaboration, VDI Center, YesAI Lab
+MoE Key Laboratory of Intelligent Perception and Human Machine Collaboration
 </div>
 </div>
 
@@ -116,6 +103,8 @@ MoE Key Laboratory of Intelligent Perception and Human Machine Collaboration, VD
 School of Computer Science and Technology
 
 Major: B.E. in **Computer Science and Technology**
+
+National Characteristic Demonstration Software College
 
 </div>
 </div>
@@ -133,23 +122,15 @@ AI Agent System Development Intern
 
 Project: LLMs for Quantitative Trading
 
+# 🎖 Selected Honors and Awards
+- *2022.6*,Finalist, America Mathematics Contest in Modeling,Top 1%
+
 </div>
 </div>
-
-<!-- # 📚 Projects
-
-- Main Contributor in [Awesome Affordance Learning](https://github.com/hq-King/Awesome-Affordance-Learning)<img src="https://img.shields.io/github/stars/hq-King/Awesome-Affordance-Learning" alt="GitHub stars"> merged in [Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) <img src="https://img.shields.io/github/stars/TianxingChen/Embodied-AI-Guide" alt="GitHub stars"> -->
-
 
 # 💼 Services
 *  Reviewer: NeurIPS 2024-2025, ICLR 2025-2026, ICML 2025,  AAAI 2026, AISTATS 2025-2026, ICCV 2025 Workshop HRSIC
 
-<!-- # 🤝 Friends
-- Large Language Models:[Hanqing Wang](https://hq-king.github.io/),[Xiangyu Zeng](https://lanxingxuan.github.io/)
-- Computer Vision:[Jiaxin Liu](https://staskaer.github.io/),[Kaiyang Ji](https://CurMack.github.io/),[Zhirui Liu](https://zhirui86.github.io/),[Yuke Li](http://liyuke.cn/)
-- Emboided AI:[Yahao Fan](https://fanyahao1.github.io/),[Tianxiang Gui](https://shiki-ta.github.io/)
-- Reinforcement Learning:[Shutong Ding](http://wadx2019.github.io/),[Ke Hu](https://openreview.net/profile?id=~Ke_Hu9)
-- Generative Models:[Mokai Pan](https://serendipityerr.github.io/Homepage/) -->
 
 
 
