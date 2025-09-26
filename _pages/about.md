@@ -75,6 +75,21 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 </div>
 </div>
 
+# 💻 Selected Internships
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/signalplus.png' alt="sym" width="95%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span style="font-size:18px;">**SignalPlus**</span>
+
+*2025.6 - 2025.8*
+
+AI Agent System Development Intern
+
+Project: LLMs for Quantitative Trading
+
+</div>
+</div>
 
 # 📖 Educations
 
@@ -109,21 +124,6 @@ National Characteristic Demonstration Software College
 </div>
 </div>
 
-# 💻 Selected Internships
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/signalplus.png' alt="sym" width="95%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<span style="font-size:18px;">**SignalPlus**</span>
-
-*2025.6 - 2025.8*
-
-AI Agent System Development Intern
-
-Project: LLMs for Quantitative Trading
-
-</div>
-</div>
 
 # 🎖 Selected Honors and Awards
 - *2022.6*,Finalist, America Mathematics Contest in Modeling,Top 1%
