@@ -23,7 +23,7 @@ I am Current a Second-year Master student in ShanghaiTech University under the s
 
 My Research interest include Large Language Models and Embodied AI. Now I focus on the topic of Spatial Synthesis and Reasoning, Robot Manipulation and AI4Science.Click [Here](https://zhenhao-zhang.github.io/CV/zhangzhh_CV_homepage.pdf) to visit my CV. I am looking for Collaborators and Friends. Feel free to contact me if you are interested in these fantasic topics!
 
-**<font color='red'>I am seeking PhD Position for 27 Fall in MLLM, 3D Computer Vision !</font>**
+**<font color='red'>I am seeking PhD Position for 27 Fall in MLLM and Computer Vision !</font>**
 
 **<font color='red'>OpenHOI is accepted by NeurIPS 2025 as Oral(77/21575,0.3%)! Glad to see you in San Diego, USA</font>**
 
