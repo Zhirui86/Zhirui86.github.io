@@ -126,6 +126,7 @@ National Characteristic Demonstration Software College
 
 
 # 🎖 Selected Honors and Awards
+- *2025.10*, NeurIPS Scholar Award, Neural Information Processing Foundation
 - *2022.6*,Finalist, America Mathematics Contest in Modeling,Top 1%
 
 # 💼 Services
