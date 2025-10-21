@@ -18,18 +18,17 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi!%20I'm%20zhirui😚&section=header&reversal=false&textBg=false&descAlign=50&descAlignY=50&animation=fadeIn)
 
-I am currently a Zero-year Master student in VDI Center, ShanghaiTech University under the supervision of [Prof. Jingya Wang](https://faculty.sist.shanghaitech.edu.cn/faculty/wangjingya/), who is an expert in the field of Machine Learning, Human-centric Computer Vision and Embodied AI.
+I'm a First-year Master student in VDI Center, ShanghaiTech University. My research interests lie in the intersection of Embodied AI, 3D Computer vision and the application of Multi-modal Large Language Model. I'm focusing on building a more intelligent and interactive humanoid robot system right now, where I'm working closely with [Prof. Jingya Wang](https://faculty.sist.shanghaitech.edu.cn/faculty/wangjingya/) and [Prof. Jingyi Yu](https://scholar.google.com/citations?user=R9L_AfQAAAAJ&hl=zh-CN). Before that, I obtained my bachelor's degree from NWPU, where I had some research experience in visual understanding by 3D Gaussian Splatting, guided by [Hao Li](https://lifuguan.github.io/) and Prof. Dingwen Zhang.
 
-My Research interests include Embodied AI, Humanoid Control and other related areas.
+<strong style="color:red">I'm open and happy to make friends🥳🥳. Discussion and collaboration are warmly welcomed and highly appreciated!! Reach me via email!! </strong>
+Email: zhirui030701 AT gmail DOT com
 
-Email :zhirui030701 AT gmail DOT com
+# 🎓 Education
+- *2025.06 - now*, Visual and Data Intelligence Center, Shanghaitech University
+- *2021.09 - 2025.06*, Northwestern Polytechnical University __(GPA: 3.86/4.1, rank: 6/153)__
 
-# 📖 Education
-- *2024.09 - now*, ShanghaiTech University, visiting student at **Visual and Data Intelligence Center**
-- *2021.09 - now*, Northwestern Polytechnical University, Undergraduate student Majoring in **Automation**
-
-# 💻 Internship
-- *2024.09-now*, Visiting Student, ShanghaiTech University, VDI Center, ViHuman Lab
+# 🏆 Award
+- First-class scholarship in NWPU (top 5% students)
 
 
 
