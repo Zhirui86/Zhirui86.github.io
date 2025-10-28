@@ -30,9 +30,21 @@ Email: zhirui030701 AT gmail DOT com
 # 🏆 Award
 - First-class scholarship in NWPU (top 5% students)
 
-<div style="text-align: center; margin: 40px 0;">
-    <!-- RevolverMaps 3D地球 -->
-    <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5x4u0r0y4zr&m=0&c=ff0000&cr1=ffffff&f=arial&l=33&s=170" async="async"></script>
+## 🌍 Visitor Map
+
+<div style="text-align: center; margin: 50px 0; padding: 30px; background: rgba(255,255,255,0.05); border-radius: 15px; border: 1px solid rgba(255,255,255,0.1);">
+    <h3 style="margin-bottom: 20px; color: #fff;">Visitor Locations</h3>
+    
+    <!-- 3D旋转地球，显示访客位置 -->
+    <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5zhujb0e0q8&m=0&c=ff0000&cr1=ffffff&f=arial&l=33&s=200" async="async"></script>
+    
+    <!-- 访客计数器 -->
+    <div style="margin-top: 20px;">
+        <p style="font-size: 16px; color: #ccc;">
+            Total Visitors: 
+            <img src="https://visitor-badge.laobi.icu/badge?page_id=zhirui030701.homepage" alt="Visitors" style="vertical-align: middle; margin-left: 10px;">
+        </p>
+    </div>
 </div>
 
 
