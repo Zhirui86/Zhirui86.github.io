@@ -30,21 +30,7 @@ Email: zhirui030701 AT gmail DOT com
 - First-class scholarship in NWPU (top 5% students)
 
 # 🌍 Visitor Map
-
-<table width="40%" align="center" border="0" cellspacing="0" cellpadding="20">
-  <tbody>
-      <tr>
-          <td style="padding:0px">
-              <br>
-              <br>
-              <div>
-                  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Fqedyl9HmwV-Dlk4qDHDO6LQ4CFJXYxYt-hyoZ2Zfq8&cl=ffffff&w=a"></script>
-                  <!-- <a target="_top" href="http://clustrmaps.com/site/1acpn?utm_source=widget&amp;utm_campaign=widget_ctr" id="clustrmaps-widget-v2" class="clustrmaps-map-control" style="width: 300px;">
--->                               </div>
-          </td>
-      </tr>
-  </tbody>
-</table>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Fqedyl9HmwV-Dlk4qDHDO6LQ4CFJXYxYt-hyoZ2Zfq8&cl=ffffff&w=a"></script>
 
 
 
