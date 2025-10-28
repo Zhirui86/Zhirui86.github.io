@@ -30,9 +30,9 @@ Email: zhirui030701 AT gmail DOT com
 # 🏆 Award
 - First-class scholarship in NWPU (top 5% students)
 
-<!-- 这会在页面底部添加一个访客地图 -->
-<div style="text-align: center; margin-top: 50px;">
-    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=YOUR_SITE_ID&cl=ffffff&w=a&t=tt&co=2d78ad&ct=ffffff"></script>
+<div style="text-align: center; margin: 40px 0;">
+    <!-- RevolverMaps 3D地球 -->
+    <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5x4u0r0y4zr&m=0&c=ff0000&cr1=ffffff&f=arial&l=33&s=170" async="async"></script>
 </div>
 
 
