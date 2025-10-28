@@ -30,22 +30,22 @@ Email: zhirui030701 AT gmail DOT com
 # 🏆 Award
 - First-class scholarship in NWPU (top 5% students)
 
-## 🌍 Visitor Map
+# 🌍 Visitor Map
 
-<div style="text-align: center; margin: 50px 0; padding: 30px; background: rgba(255,255,255,0.05); border-radius: 15px; border: 1px solid rgba(255,255,255,0.1);">
-    <h3 style="margin-bottom: 20px; color: #fff;">Visitor Locations</h3>
-    
-    <!-- 3D旋转地球，显示访客位置 -->
-    <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5zhujb0e0q8&m=0&c=ff0000&cr1=ffffff&f=arial&l=33&s=200" async="async"></script>
-    
-    <!-- 访客计数器 -->
-    <div style="margin-top: 20px;">
-        <p style="font-size: 16px; color: #ccc;">
-            Total Visitors: 
-            <img src="https://visitor-badge.laobi.icu/badge?page_id=zhirui030701.homepage" alt="Visitors" style="vertical-align: middle; margin-left: 10px;">
-        </p>
-    </div>
-</div>
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+  <tbody>
+      <tr>
+          <td style="padding:0px">
+              <br>
+              <br>
+              <div>
+                  <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=350&t=tt&d=Biz007_Pw8FVsAWycLRoKM_5XR_da9ccb8qGNbWVwnk&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080"></script>
+                  <!-- <a target="_top" href="http://clustrmaps.com/site/1acpn?utm_source=widget&amp;utm_campaign=widget_ctr" id="clustrmaps-widget-v2" class="clustrmaps-map-control" style="width: 300px;">
+-->                               </div>
+          </td>
+      </tr>
+  </tbody>
+</table>
 
 
 
