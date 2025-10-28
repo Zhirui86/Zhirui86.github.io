@@ -32,7 +32,7 @@ Email: zhirui030701 AT gmail DOT com
 
 # 🌍 Visitor Map
 
-<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+<table width="40%" align="center" border="0" cellspacing="0" cellpadding="20">
   <tbody>
       <tr>
           <td style="padding:0px">
