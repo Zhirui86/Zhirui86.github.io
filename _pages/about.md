@@ -39,7 +39,7 @@ Email: zhirui030701 AT gmail DOT com
               <br>
               <br>
               <div>
-                  <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=350&t=tt&d=Biz007_Pw8FVsAWycLRoKM_5XR_da9ccb8qGNbWVwnk&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080"></script>
+                  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Fqedyl9HmwV-Dlk4qDHDO6LQ4CFJXYxYt-hyoZ2Zfq8&cl=ffffff&w=a"></script>
                   <!-- <a target="_top" href="http://clustrmaps.com/site/1acpn?utm_source=widget&amp;utm_campaign=widget_ctr" id="clustrmaps-widget-v2" class="clustrmaps-map-control" style="width: 300px;">
 -->                               </div>
           </td>
