@@ -16,7 +16,6 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi!%20I'm%20zhirui😚&section=header&reversal=false&textBg=false&descAlign=50&descAlignY=50&animation=fadeIn)
 
 I'm a First-year Master student in VDI Center, ShanghaiTech University. My research interests lie in the intersection of Embodied AI, 3D Computer vision and the application of Multi-modal Large Language Model. I'm focusing on building a more intelligent and interactive humanoid robot system right now, where I'm working closely with [Prof. Jingya Wang](https://faculty.sist.shanghaitech.edu.cn/faculty/wangjingya/) and [Prof. Jingyi Yu](https://scholar.google.com/citations?user=R9L_AfQAAAAJ&hl=zh-CN). Before that, I obtained my bachelor's degree from NWPU, where I had research experience in multi-view visual understanding by 3D Gaussian Splatting, guided by [Hao Li](https://lifuguan.github.io/) and Prof. Dingwen Zhang.
 
