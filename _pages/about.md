@@ -19,11 +19,11 @@ redirect_from:
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Zhenhao Zhang 章震豪&section=header&reversal=false&textBg=false&descAlign=50&descAlignY=50&animation=fadeIn) -->
 
-I am Current a Second-year Master student in ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io) and [Prof. Jingya Wang](https://faculty.sist.shanghaitech.edu.cn/faculty/wangjingya/),who are experts in the field of Machine Learning and Computer Vision.I get B.E. Degree in China University of Petroleum under the supervision of [Prof. Yunquan Song](https://sci.upc.edu.cn/2019/0513/c14558a206193/page.htm), who is an expert in the field of High-Dimensional Statistic.
+I am Current a Second-year Master student in ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io) and [Prof. Jingya Wang](https://faculty.sist.shanghaitech.edu.cn/faculty/wangjingya/),who are experts in the field of Machine Learning and Computer Vision.I get B.E. Degree in China University of Petroleum under the supervision of [Prof. Yunquan Song](http://sci.upc.edu.cn/2025/0507/c6755a461574/page.htm), who is an expert in the field of High-Dimensional Statistic.
 
-My Research interest include Multimodal Large Language Models and it's Applications. Now I focus on the topic of Digital Human, Robot Manipulation and AI4Science. I am looking for Collaborators and Friends. Feel free to contact me if you are interested in these fantasic topics!
+My Research interest include MLLM and Computer Vision. Now I focus on the topic of Digital Human, Motion Generation and Robot Manipulation. I am looking for Collaborators and Friends. Feel free to contact me if you are interested in these fantasic topics!
 
-**<font color='red'>I am seeking PhD Position for 27 Fall in MLLM and it's Application!</font>**
+**<font color='red'>I am seeking PhD Position for 27 Fall in MLLM and Computer Vision!</font>**
 
 **<font color='red'>OpenHOI is accepted by NeurIPS 2025 as Oral(77/21575, 0.3%)!</font>**
 
