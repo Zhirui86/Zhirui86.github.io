@@ -23,7 +23,7 @@ I am Current a Second-year Master student in ShanghaiTech University under the s
 
 My Research interest include MLLM and Computer Vision. Now I focus on the topic of Digital Human, Motion Generation and Robot Manipulation. I am looking for Collaborators and Friends. Feel free to contact me if you are interested in these fantasic topics!
 
-**<font color='red'>I am seeking PhD Position for 27 Fall in MLLM and Computer Vision!</font>**
+<!-- **<font color='red'>I am seeking PhD Position for 27 Fall in MLLM and Computer Vision!</font>** -->
 
 **<font color='red'>OpenHOI is accepted by NeurIPS 2025 as Oral(77/21575, 0.3%)!</font>**
 
