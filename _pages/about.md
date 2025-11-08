@@ -36,6 +36,7 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 
 # 🔥 News
+- *2025.11*:[**SDEval**](https://github.com/hq-King/SDEval) accepted by **AAAI 2026**!
 - *2025.09*:[**OpenHOI**](http://openhoi.github.io) accepted by **NeurIPS 2025 as <font color='red'>Oral(77/21575,0.3%)</font>**!
 - *2025.06-08*:I join [SignalPlus](http://signalplus.com) as an AI Agent System Development Intern for Quantitative Trading!
 - *2024.09*:[**QVPO**](http://wadx2019.github.io/qvpo-webpage/) accepted by **NeurIPS 2024**!
@@ -43,7 +44,18 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 # 📝 Selected Publications 
 †:Equal Contribution *:Corresponding Author [Full Publications](https://scholar.google.com/citations?user=dV36HmYAAAAJ)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 Poster</div><img src='papers/SDEval/SDEval.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+**SDEval: Safety Dynamic Evaluation for Multimodal Large Language Models**
+
+Hanqing Wang, Yuan Tian, Mingyu Liu, **Zhenhao Zhang**, Xiangyang Zhu\*
+
+**AAAI 2026 Poster**
+
+[![arXiv](https://img.shields.io/badge/arXiv-2508.06142-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2508.06142)[[**Project Page**]](https://github.com/hq-King/SDEval)
+</div>
+</div>
 
 <div style="background-color: #ffffdc; ">
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 Oral</div><img src='papers/OpenHOI/OpenHOI.png' alt="sym" width="100%"></div></div>

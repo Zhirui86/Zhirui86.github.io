@@ -13,17 +13,7 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='papers/SDEval/SDEval.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-**SDEval: Safety Dynamic Evaluation for Multimodal Large Language Models**
-
-Hanqing Wang, Yuan Tian, Mingyu Liu, **Zhenhao Zhang**, Xiangyang Zhu\*
-
-[![arXiv](https://img.shields.io/badge/arXiv-2508.06142-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2508.06142)
-
-</div>
-</div>
 
 <div style="background-color: #ffffdc; ">
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WAIC 2025</div><img src='papers/DAG/DAG.png' alt="sym" width="100%"></div></div>
