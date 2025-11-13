@@ -142,7 +142,9 @@ National Characteristic Demonstration Software College
 - *2022.6*,Finalist, America Mathematics Contest in Modeling,Top 1%
 
 # 💼 Services
-*  Reviewer: NeurIPS 2024-2025, ICLR 2025-2026, ICML 2025,  AAAI 2026, AISTATS 2025-2026, ICCV 2025 Workshop HRSIC
+- Program Committee: ICCV 2025 Workshop HRSIC
+- Journal Reviewer: Transactions on Machine Learning Research
+- Conference Reviewer: NeurIPS 2024-2025, ICLR 2025-2026, ICML 2025, CVPR 2026, AAAI 2026, AISTATS 2025-2026
 
 
 
