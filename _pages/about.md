@@ -44,19 +44,6 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 # 📝 Selected Publications 
 †:Equal Contribution *:Corresponding Author [Full Publications](https://scholar.google.com/citations?user=dV36HmYAAAAJ)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 Poster</div><img src='papers/SDEval/SDEval.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**SDEval: Safety Dynamic Evaluation for Multimodal Large Language Models**
-
-Hanqing Wang, Yuan Tian, Mingyu Liu, **Zhenhao Zhang**, Xiangyang Zhu\*
-
-**AAAI 2026 Poster**
-
-[![arXiv](https://img.shields.io/badge/arXiv-2508.06142-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2508.06142)[[**Project Page**]](https://github.com/hq-King/SDEval)
-</div>
-</div>
-
 <div style="background-color: #ffffdc; ">
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 Oral</div><img src='papers/OpenHOI/OpenHOI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -72,6 +59,34 @@ Hanqing Wang, Yuan Tian, Mingyu Liu, **Zhenhao Zhang**, Xiangyang Zhu\*
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 Poster</div><img src='papers/SDEval/SDEval.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**SDEval: Safety Dynamic Evaluation for Multimodal Large Language Models**
+
+Hanqing Wang, Yuan Tian, Mingyu Liu, **Zhenhao Zhang**, Xiangyang Zhu\*
+
+**AAAI 2026 Poster**
+
+[![arXiv](https://img.shields.io/badge/arXiv-2508.06142-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2508.06142)[[**Project Page**]](https://github.com/hq-King/SDEval)
+</div>
+</div>
+
+<!-- <div style="background-color: #ffffdc; ">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 Oral</div><img src='papers/OpenHOI/OpenHOI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**OpenHOI: Open-World Hand-Object Interaction Synthesis with Multimodal Large Language Model**
+
+**Zhenhao Zhang**, Ye Shi\*, Lingxiao Yang, Suting Ni, Qi Ye, Jingya Wang\*
+
+**<font color='red'>NeurIPS 2025 Oral(77/21575,0.3%)</font>**
+
+[![arXiv](https://img.shields.io/badge/arXiv-2505.18947-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2505.18947)[[**Project Page**]](http://openhoi.github.io)
+</div>
+</div>
+</div> -->
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 Poster</div><img src='papers/QVPO/QVPO.png' alt="sym" width="100%"></div></div>
@@ -85,6 +100,8 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 
 [![arXiv](https://img.shields.io/badge/arXiv-2405.16173-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2405.16173)[[**Project Page**]](http://wadx2019.github.io/qvpo-webpage/)
 </div>
+</div>
+
 
 # 💻 Selected Internships
 
