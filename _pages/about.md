@@ -23,7 +23,7 @@ I'm a First-year Master student in VDI Center, ShanghaiTech University. My resea
 Email: zhirui030701 AT gmail DOT com
 
 # 🎓 Education
-- *2025.06 - now*, Visual and Data Intelligence Center, Shanghaitech University
+- *2025.06 - now*, Visual and Data Intelligence Center, ShanghaiTech University
 - *2021.09 - 2025.06*, Northwestern Polytechnical University __(GPA: 3.86/4.1, rank: 6/153)__
 
 # 🏆 Award
