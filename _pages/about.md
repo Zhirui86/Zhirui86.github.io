@@ -160,7 +160,7 @@ National Characteristic Demonstration Software College
 # 💼 Services
 - Program Committee: ICCV 2025 Workshop HRSIC
 - Journal Reviewer: Transactions on Machine Learning Research
-- Conference Reviewer: NeurIPS 2024-2025, ICLR 2025-2026, ICML 2025, CVPR 2026, AAAI 2026, AISTATS 2025-2026
+- Conference Reviewer: NeurIPS 2024-2025, ICLR 2025-2026, ICML 2025, AAAI 2026, AISTATS 2025-2026
 
 
 
