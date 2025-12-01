@@ -30,7 +30,7 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 
 
-# 🔥Seeking
+# ✨Seeking
 
 - **<font color='red'>I am seeking PhD Position for 27 Fall in MLLM and Computer Vision!</font>**
 - **<font color='red'>我正在寻找2027年秋季的博士机会，主要是计算机视觉与多模态大模型领域。如果你对我的经历感兴趣，请随时联系我！</font>**
