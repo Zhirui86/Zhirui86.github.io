@@ -32,29 +32,9 @@ Email :zhirui030701 AT gmail DOT com
 
 # 📖 Education
 
-<span style="font-size:18px;">**ShanghaiTech University**</span>
+2025.09 - now, ShanghaiTech University
 
-*2025.09 - now*
-
-School of Information Science and Technology
-
-Major: M.S. in **Computer Science**
-
-MoE Key Laboratory of Intelligent Perception and Human Machine Collaboration
-</div>
-</div>
-
-<span style="font-size:18px;">**Northwestern Polytechnical University**</span>
-
-*2021.09 - 2025.06*
-
-School of Automation
-
-Major: B.E. in **Automation**
-
-*rank: 6/153 (Top 5 %)*
-</div>
-</div>
+*2021.09 - 2025.06*, Northwestern Polytechnical University, **rank: 6/153 (Top 5 %)**
 
 
 <!-- # 🎖 Selected Honors and Awards
