@@ -36,8 +36,7 @@ Email :zhirui030701 AT gmail DOT com
 
 *2021.09 - 2025.06*, Northwestern Polytechnical University, **rank: 6/153 (Top 5 %)**
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=o-nJGS20-JzCX2_qsTxhy6sIGDKOC67YulVG10beh30&cl=ffffff&w=a"></script>
-<!-- # 🎖 Selected Honors and Awards
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=200&t=n&d=LGogeTOHha4Qd53igRj47-oTG7q0yXWuinJF3YFjEpo'></script><!-- # 🎖 Selected Honors and Awards
 - *2025.10*, NeurIPS Scholar Award, Neural Information Processing Foundation
 - *2022.6*,Finalist, America Mathematics Contest in Modeling,Top 1% -->
 
