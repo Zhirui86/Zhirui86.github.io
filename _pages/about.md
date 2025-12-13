@@ -36,10 +36,6 @@ Email :zhirui030701 AT gmail DOT com
 - <img src="/images/nwpu.png" width="28"> **Northwestern Polytechnical University**, B.S. student (2021.09 - 2025.06), **rank: 6/153**
 
 
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=200&t=n&d=LGogeTOHha4Qd53igRj47-oTG7q0yXWuinJF3YFjEpo'></script><!-- # 🎖 Selected Honors and Awards
-- *2025.10*, NeurIPS Scholar Award, Neural Information Processing Foundation
-- *2022.6*,Finalist, America Mathematics Contest in Modeling,Top 1% -->
-
 
 # 🎨 Hobbies
 🏀 Basketball enthusiast, shooting guard on court. Fan of LeBron James since 2014.
@@ -48,7 +44,7 @@ Email :zhirui030701 AT gmail DOT com
 
 👨🏼‍💼 English public speaking practitioner · National First Prize, NECCS
 
-
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=200&t=n&d=LGogeTOHha4Qd53igRj47-oTG7q0yXWuinJF3YFjEpo'></script><!-- # 🎖 
 <!-- # 💼 Services
 - Program Committee: ICCV 2025 Workshop HRSIC
 - Journal Reviewer: Transactions on Machine Learning Research
