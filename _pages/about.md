@@ -32,13 +32,22 @@ Email :zhirui030701 AT gmail DOT com
 
 # 📖 Education
 
-2025.09 - now, ShanghaiTech University
+- <img src="/images/shanghaitech.png" width="28"> **ShanghaiTech University**, M.S. student (2025.09 - now)
+- <img src="/images/nwpu.png" width="28"> **Northwestern Polytechnical University**, B.S. student (2021.09 - 2025.06), **rank: 6/153**
 
-*2021.09 - 2025.06*, Northwestern Polytechnical University, **rank: 6/153 (Top 5 %)**
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=200&t=n&d=LGogeTOHha4Qd53igRj47-oTG7q0yXWuinJF3YFjEpo'></script><!-- # 🎖 Selected Honors and Awards
 - *2025.10*, NeurIPS Scholar Award, Neural Information Processing Foundation
 - *2022.6*,Finalist, America Mathematics Contest in Modeling,Top 1% -->
+
+
+# 🎨 Hobbies
+🏀 Basketball enthusiast, shooting guard on court. Fan of LeBron James since 2014.
+
+🏋🏻‍♂️ Fitness training learner. Bench press (1RM): 70 kg · Squat (1RM): 100 kg
+
+👨🏼‍💼 English public speaking practitioner · National First Prize, NECCS
+
 
 <!-- # 💼 Services
 - Program Committee: ICCV 2025 Workshop HRSIC
