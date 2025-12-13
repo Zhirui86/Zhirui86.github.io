@@ -32,8 +32,8 @@ Email :zhirui030701 AT gmail DOT com
 
 # 📖 Education
 
-- <img src="/images/shanghaitech.png" width="28"> **ShanghaiTech University**, M.S. student (2025.09 - now)
-- <img src="/images/nwpu.png" width="28"> **Northwestern Polytechnical University**, B.S. student (2021.09 - 2025.06), **rank: 6/153**
+- <img src="/images/shanghaitech.png" width="28">  **ShanghaiTech University**, M.S. student (2025.09 - now)
+- <img src="/images/nwpu.png" width="29"> **Northwestern Polytechnical University**, B.S. student (2021.09 - 2025.06), **rank: 6/153**
 
 
 
